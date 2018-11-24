@@ -1,0 +1,4772 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<v8u:updateList xmlns:v8u="http://v8.1c.ru/configuration-updates" version="1.1">
+	<v8u:date>09.11.2018T17:07:04</v8u:date>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_10_8/1cv8.zip</v8u:file>
+		<v8u:size>20863660</v8u:size>
+		<v8u:version>3.0.10.8</v8u:version>
+		<v8u:target>3.0.9.4</v8u:target>
+		<v8u:target>3.0.10.1</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_11_6/1cv8.zip</v8u:file>
+		<v8u:size>12489961</v8u:size>
+		<v8u:version>3.0.11.6</v8u:version>
+		<v8u:target>3.0.10.8</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_11_11/1cv8.zip</v8u:file>
+		<v8u:size>1194683</v8u:size>
+		<v8u:version>3.0.11.11</v8u:version>
+		<v8u:target>3.0.11.6</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_11_12/1cv8.zip</v8u:file>
+		<v8u:size>1317122</v8u:size>
+		<v8u:version>3.0.11.12</v8u:version>
+		<v8u:target>3.0.11.6</v8u:target>
+		<v8u:target>3.0.11.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_11_13/1cv8.zip</v8u:file>
+		<v8u:size>1560550</v8u:size>
+		<v8u:version>3.0.11.13</v8u:version>
+		<v8u:target>3.0.11.11</v8u:target>
+		<v8u:target>3.0.11.12</v8u:target>
+		<v8u:target>3.0.11.6</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_12_4/1cv8.zip</v8u:file>
+		<v8u:size>25252669</v8u:size>
+		<v8u:version>3.0.12.4</v8u:version>
+		<v8u:target>3.0.11.6</v8u:target>
+		<v8u:target>3.0.11.11</v8u:target>
+		<v8u:target>3.0.11.12</v8u:target>
+		<v8u:target>3.0.11.13</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_12_6/1cv8.zip</v8u:file>
+		<v8u:size>4361889</v8u:size>
+		<v8u:version>3.0.12.6</v8u:version>
+		<v8u:target>3.0.12.4</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_12_8/1cv8.zip</v8u:file>
+		<v8u:size>4453800</v8u:size>
+		<v8u:version>3.0.12.8</v8u:version>
+		<v8u:target>3.0.12.4</v8u:target>
+		<v8u:target>3.0.12.6</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_13_5/1cv8.zip</v8u:file>
+		<v8u:size>67236434</v8u:size>
+		<v8u:version>3.0.13.5</v8u:version>
+		<v8u:target>3.0.12.6</v8u:target>
+		<v8u:target>3.0.12.4</v8u:target>
+		<v8u:target>3.0.12.8</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_13_7/1cv8.zip</v8u:file>
+		<v8u:size>67531602</v8u:size>
+		<v8u:version>3.0.13.7</v8u:version>
+		<v8u:target>3.0.12.8</v8u:target>
+		<v8u:target>3.0.12.4</v8u:target>
+		<v8u:target>3.0.12.6</v8u:target>
+		<v8u:target>3.0.13.5</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_13_8/1cv8.zip</v8u:file>
+		<v8u:size>3339735</v8u:size>
+		<v8u:version>3.0.13.8</v8u:version>
+		<v8u:target>3.0.13.7</v8u:target>
+		<v8u:target>3.0.13.5</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_13_10/1cv8.zip</v8u:file>
+		<v8u:size>9091807</v8u:size>
+		<v8u:version>3.0.13.10</v8u:version>
+		<v8u:target>3.0.13.5</v8u:target>
+		<v8u:target>3.0.13.8</v8u:target>
+		<v8u:target>3.0.13.7</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_13_11/1cv8.zip</v8u:file>
+		<v8u:size>9105112</v8u:size>
+		<v8u:version>3.0.13.11</v8u:version>
+		<v8u:target>3.0.13.7</v8u:target>
+		<v8u:target>3.0.13.8</v8u:target>
+		<v8u:target>3.0.13.5</v8u:target>
+		<v8u:target>3.0.13.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_14_6/1cv8.zip</v8u:file>
+		<v8u:size>28602380</v8u:size>
+		<v8u:version>3.0.14.6</v8u:version>
+		<v8u:target>3.0.13.5</v8u:target>
+		<v8u:target>3.0.13.7</v8u:target>
+		<v8u:target>3.0.13.8</v8u:target>
+		<v8u:target>3.0.13.10</v8u:target>
+		<v8u:target>3.0.13.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_14_7/1cv8.zip</v8u:file>
+		<v8u:size>5278912</v8u:size>
+		<v8u:version>3.0.14.7</v8u:version>
+		<v8u:target>3.0.14.6</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_14_8/1cv8.zip</v8u:file>
+		<v8u:size>5838101</v8u:size>
+		<v8u:version>3.0.14.8</v8u:version>
+		<v8u:target>3.0.14.6</v8u:target>
+		<v8u:target>3.0.14.7</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_14_9/1cv8.zip</v8u:file>
+		<v8u:size>7441689</v8u:size>
+		<v8u:version>3.0.14.9</v8u:version>
+		<v8u:target>3.0.14.7</v8u:target>
+		<v8u:target>3.0.14.8</v8u:target>
+		<v8u:target>3.0.14.6</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_14_10/1cv8.zip</v8u:file>
+		<v8u:size>7636809</v8u:size>
+		<v8u:version>3.0.14.10</v8u:version>
+		<v8u:target>3.0.14.6</v8u:target>
+		<v8u:target>3.0.14.9</v8u:target>
+		<v8u:target>3.0.14.8</v8u:target>
+		<v8u:target>3.0.14.7</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_15_5/1cv8.zip</v8u:file>
+		<v8u:size>16660273</v8u:size>
+		<v8u:version>3.0.15.5</v8u:version>
+		<v8u:target>3.0.15.4</v8u:target>
+		<v8u:target>3.0.14.6</v8u:target>
+		<v8u:target>3.0.14.7</v8u:target>
+		<v8u:target>3.0.14.9</v8u:target>
+		<v8u:target>3.0.14.8</v8u:target>
+		<v8u:target>3.0.14.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_15_6/1cv8.zip</v8u:file>
+		<v8u:size>16731109</v8u:size>
+		<v8u:version>3.0.15.6</v8u:version>
+		<v8u:target>3.0.14.10</v8u:target>
+		<v8u:target>3.0.14.9</v8u:target>
+		<v8u:target>3.0.14.7</v8u:target>
+		<v8u:target>3.0.14.8</v8u:target>
+		<v8u:target>3.0.14.6</v8u:target>
+		<v8u:target>3.0.15.4</v8u:target>
+		<v8u:target>3.0.15.5</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_15_7/1cv8.zip</v8u:file>
+		<v8u:size>376589315</v8u:size>
+		<v8u:version>3.0.15.7</v8u:version>
+		<v8u:target>3.0.15.4</v8u:target>
+		<v8u:target>3.0.15.5</v8u:target>
+		<v8u:target>3.0.15.6</v8u:target>
+		<v8u:target>3.0.14.6</v8u:target>
+		<v8u:target>3.0.14.8</v8u:target>
+		<v8u:target>3.0.14.7</v8u:target>
+		<v8u:target>3.0.14.9</v8u:target>
+		<v8u:target>3.0.14.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_15_9/1cv8.zip</v8u:file>
+		<v8u:size>349887276</v8u:size>
+		<v8u:version>3.0.15.9</v8u:version>
+		<v8u:target>3.0.15.6</v8u:target>
+		<v8u:target>3.0.15.7</v8u:target>
+		<v8u:target>3.0.15.5</v8u:target>
+		<v8u:target>3.0.15.4</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_15_11/1cv8.zip</v8u:file>
+		<v8u:size>14775936</v8u:size>
+		<v8u:version>3.0.15.11</v8u:version>
+		<v8u:target>3.0.15.4</v8u:target>
+		<v8u:target>3.0.15.7</v8u:target>
+		<v8u:target>3.0.15.6</v8u:target>
+		<v8u:target>3.0.15.5</v8u:target>
+		<v8u:target>3.0.15.9</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_16_6/1cv8.zip</v8u:file>
+		<v8u:size>37860922</v8u:size>
+		<v8u:version>3.0.16.6</v8u:version>
+		<v8u:target>3.0.15.5</v8u:target>
+		<v8u:target>3.0.15.7</v8u:target>
+		<v8u:target>3.0.15.6</v8u:target>
+		<v8u:target>3.0.15.11</v8u:target>
+		<v8u:target>3.0.15.9</v8u:target>
+		<v8u:target>3.0.14.10</v8u:target>
+		<v8u:target>3.0.14.9</v8u:target>
+		<v8u:target>3.0.14.7</v8u:target>
+		<v8u:target>3.0.14.6</v8u:target>
+		<v8u:target>3.0.14.8</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_16_8/1cv8.zip</v8u:file>
+		<v8u:size>37623945</v8u:size>
+		<v8u:version>3.0.16.8</v8u:version>
+		<v8u:target>3.0.16.6</v8u:target>
+		<v8u:target>3.0.15.11</v8u:target>
+		<v8u:target>3.0.15.9</v8u:target>
+		<v8u:target>3.0.15.6</v8u:target>
+		<v8u:target>3.0.15.7</v8u:target>
+		<v8u:target>3.0.15.5</v8u:target>
+		<v8u:target>3.0.15.4</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_16_9/1cv8.zip</v8u:file>
+		<v8u:size>358238878</v8u:size>
+		<v8u:version>3.0.16.9</v8u:version>
+		<v8u:target>3.0.15.4</v8u:target>
+		<v8u:target>3.0.15.5</v8u:target>
+		<v8u:target>3.0.15.7</v8u:target>
+		<v8u:target>3.0.15.6</v8u:target>
+		<v8u:target>3.0.15.9</v8u:target>
+		<v8u:target>3.0.15.11</v8u:target>
+		<v8u:target>3.0.16.6</v8u:target>
+		<v8u:target>3.0.16.8</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_17_6/1cv8.zip</v8u:file>
+		<v8u:size>254672896</v8u:size>
+		<v8u:version>3.0.17.6</v8u:version>
+		<v8u:target>3.0.16.6</v8u:target>
+		<v8u:target>3.0.16.9</v8u:target>
+		<v8u:target>3.0.16.8</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_17_14/1cv8.zip</v8u:file>
+		<v8u:size>41272886</v8u:size>
+		<v8u:version>3.0.17.14</v8u:version>
+		<v8u:target>3.0.16.8</v8u:target>
+		<v8u:target>3.0.16.9</v8u:target>
+		<v8u:target>3.0.16.6</v8u:target>
+		<v8u:target>3.0.17.10</v8u:target>
+		<v8u:target>3.0.17.6</v8u:target>
+		<v8u:target>3.0.17.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_18_3/1cv8.zip</v8u:file>
+		<v8u:size>43085535</v8u:size>
+		<v8u:version>3.0.18.3</v8u:version>
+		<v8u:target>3.0.17.14</v8u:target>
+		<v8u:target>3.0.17.11</v8u:target>
+		<v8u:target>3.0.17.6</v8u:target>
+		<v8u:target>3.0.17.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_18_5/1cv8.zip</v8u:file>
+		<v8u:size>44330411</v8u:size>
+		<v8u:version>3.0.18.5</v8u:version>
+		<v8u:target>3.0.17.10</v8u:target>
+		<v8u:target>3.0.17.6</v8u:target>
+		<v8u:target>3.0.17.11</v8u:target>
+		<v8u:target>3.0.17.14</v8u:target>
+		<v8u:target>3.0.18.3</v8u:target>
+		<v8u:target>3.0.18.4</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_18_6/1cv8.zip</v8u:file>
+		<v8u:size>44593757</v8u:size>
+		<v8u:version>3.0.18.6</v8u:version>
+		<v8u:target>3.0.18.4</v8u:target>
+		<v8u:target>3.0.18.3</v8u:target>
+		<v8u:target>3.0.17.14</v8u:target>
+		<v8u:target>3.0.17.11</v8u:target>
+		<v8u:target>3.0.17.6</v8u:target>
+		<v8u:target>3.0.17.10</v8u:target>
+		<v8u:target>3.0.18.5</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_18_7/1cv8.zip</v8u:file>
+		<v8u:size>44588244</v8u:size>
+		<v8u:version>3.0.18.7</v8u:version>
+		<v8u:target>3.0.18.6</v8u:target>
+		<v8u:target>3.0.17.10</v8u:target>
+		<v8u:target>3.0.17.6</v8u:target>
+		<v8u:target>3.0.17.11</v8u:target>
+		<v8u:target>3.0.17.14</v8u:target>
+		<v8u:target>3.0.18.3</v8u:target>
+		<v8u:target>3.0.18.4</v8u:target>
+		<v8u:target>3.0.18.5</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_18_8/1cv8.zip</v8u:file>
+		<v8u:size>45318426</v8u:size>
+		<v8u:version>3.0.18.8</v8u:version>
+		<v8u:target>3.0.18.5</v8u:target>
+		<v8u:target>3.0.18.4</v8u:target>
+		<v8u:target>3.0.18.7</v8u:target>
+		<v8u:target>3.0.18.3</v8u:target>
+		<v8u:target>3.0.17.6</v8u:target>
+		<v8u:target>3.0.17.14</v8u:target>
+		<v8u:target>3.0.17.11</v8u:target>
+		<v8u:target>3.0.17.10</v8u:target>
+		<v8u:target>3.0.18.6</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_18_9/1cv8.zip</v8u:file>
+		<v8u:size>19924496</v8u:size>
+		<v8u:version>3.0.18.9</v8u:version>
+		<v8u:target>3.0.17.11</v8u:target>
+		<v8u:target>3.0.17.14</v8u:target>
+		<v8u:target>3.0.17.6</v8u:target>
+		<v8u:target>3.0.17.10</v8u:target>
+		<v8u:target>3.0.18.3</v8u:target>
+		<v8u:target>3.0.18.7</v8u:target>
+		<v8u:target>3.0.18.8</v8u:target>
+		<v8u:target>3.0.18.6</v8u:target>
+		<v8u:target>3.0.18.4</v8u:target>
+		<v8u:target>3.0.18.5</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_19_27/1cv8.zip</v8u:file>
+		<v8u:size>24913843</v8u:size>
+		<v8u:version>3.0.19.27</v8u:version>
+		<v8u:target>3.0.18.5</v8u:target>
+		<v8u:target>3.0.18.6</v8u:target>
+		<v8u:target>3.0.18.7</v8u:target>
+		<v8u:target>3.0.18.3</v8u:target>
+		<v8u:target>3.0.18.8</v8u:target>
+		<v8u:target>3.0.18.9</v8u:target>
+		<v8u:target>3.0.19.15</v8u:target>
+		<v8u:target>3.0.19.23</v8u:target>
+		<v8u:target>3.0.19.25</v8u:target>
+		<v8u:target>3.0.19.17</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_19_29/1cv8.zip</v8u:file>
+		<v8u:size>25861715</v8u:size>
+		<v8u:version>3.0.19.29</v8u:version>
+		<v8u:target>3.0.19.17</v8u:target>
+		<v8u:target>3.0.19.25</v8u:target>
+		<v8u:target>3.0.19.27</v8u:target>
+		<v8u:target>3.0.19.15</v8u:target>
+		<v8u:target>3.0.18.9</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_19_31/1cv8.zip</v8u:file>
+		<v8u:size>25863658</v8u:size>
+		<v8u:version>3.0.19.31</v8u:version>
+		<v8u:target>3.0.18.9</v8u:target>
+		<v8u:target>3.0.19.15</v8u:target>
+		<v8u:target>3.0.19.29</v8u:target>
+		<v8u:target>3.0.19.27</v8u:target>
+		<v8u:target>3.0.19.25</v8u:target>
+		<v8u:target>3.0.19.17</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_19_33/1cv8.zip</v8u:file>
+		<v8u:size>39676025</v8u:size>
+		<v8u:version>3.0.19.33</v8u:version>
+		<v8u:target>3.0.19.17</v8u:target>
+		<v8u:target>3.0.19.25</v8u:target>
+		<v8u:target>3.0.19.27</v8u:target>
+		<v8u:target>3.0.19.29</v8u:target>
+		<v8u:target>3.0.19.31</v8u:target>
+		<v8u:target>3.0.19.32</v8u:target>
+		<v8u:target>3.0.19.15</v8u:target>
+		<v8u:target>3.0.18.9</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_19_35/1cv8.zip</v8u:file>
+		<v8u:size>39930993</v8u:size>
+		<v8u:version>3.0.19.35</v8u:version>
+		<v8u:target>3.0.18.9</v8u:target>
+		<v8u:target>3.0.19.15</v8u:target>
+		<v8u:target>3.0.19.32</v8u:target>
+		<v8u:target>3.0.19.33</v8u:target>
+		<v8u:target>3.0.19.31</v8u:target>
+		<v8u:target>3.0.19.29</v8u:target>
+		<v8u:target>3.0.19.34</v8u:target>
+		<v8u:target>3.0.19.27</v8u:target>
+		<v8u:target>3.0.19.25</v8u:target>
+		<v8u:target>3.0.19.17</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_19_37/1cv8.zip</v8u:file>
+		<v8u:size>39900232</v8u:size>
+		<v8u:version>3.0.19.37</v8u:version>
+		<v8u:target>3.0.19.17</v8u:target>
+		<v8u:target>3.0.19.25</v8u:target>
+		<v8u:target>3.0.19.27</v8u:target>
+		<v8u:target>3.0.19.34</v8u:target>
+		<v8u:target>3.0.19.35</v8u:target>
+		<v8u:target>3.0.19.29</v8u:target>
+		<v8u:target>3.0.19.31</v8u:target>
+		<v8u:target>3.0.19.33</v8u:target>
+		<v8u:target>3.0.19.32</v8u:target>
+		<v8u:target>3.0.19.15</v8u:target>
+		<v8u:target>3.0.18.9</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_20_10/1cv8.zip</v8u:file>
+		<v8u:size>32867041</v8u:size>
+		<v8u:version>3.0.20.10</v8u:version>
+		<v8u:target>3.0.19.31</v8u:target>
+		<v8u:target>3.0.19.29</v8u:target>
+		<v8u:target>3.0.19.35</v8u:target>
+		<v8u:target>3.0.19.33</v8u:target>
+		<v8u:target>3.0.19.32</v8u:target>
+		<v8u:target>3.0.19.37</v8u:target>
+		<v8u:target>3.0.19.34</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_20_16/1cv8.zip</v8u:file>
+		<v8u:size>33051960</v8u:size>
+		<v8u:version>3.0.20.16</v8u:version>
+		<v8u:target>3.0.19.34</v8u:target>
+		<v8u:target>3.0.19.37</v8u:target>
+		<v8u:target>3.0.19.35</v8u:target>
+		<v8u:target>3.0.19.32</v8u:target>
+		<v8u:target>3.0.19.33</v8u:target>
+		<v8u:target>3.0.19.29</v8u:target>
+		<v8u:target>3.0.19.31</v8u:target>
+		<v8u:target>3.0.20.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_20_16/1cv8.zip</v8u:file>
+		<v8u:size>33051960</v8u:size>
+		<v8u:version>3.0.20.16</v8u:version>
+		<v8u:target>3.0.20.10</v8u:target>
+		<v8u:target>3.0.19.31</v8u:target>
+		<v8u:target>3.0.19.29</v8u:target>
+		<v8u:target>3.0.19.33</v8u:target>
+		<v8u:target>3.0.19.32</v8u:target>
+		<v8u:target>3.0.19.35</v8u:target>
+		<v8u:target>3.0.19.37</v8u:target>
+		<v8u:target>3.0.19.34</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_20_18/1cv8.zip</v8u:file>
+		<v8u:size>35759730</v8u:size>
+		<v8u:version>3.0.20.18</v8u:version>
+		<v8u:target>3.0.19.34</v8u:target>
+		<v8u:target>3.0.19.35</v8u:target>
+		<v8u:target>3.0.19.32</v8u:target>
+		<v8u:target>3.0.19.33</v8u:target>
+		<v8u:target>3.0.19.29</v8u:target>
+		<v8u:target>3.0.19.31</v8u:target>
+		<v8u:target>3.0.19.37</v8u:target>
+		<v8u:target>3.0.20.10</v8u:target>
+		<v8u:target>3.0.20.16</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_21_10/1cv8.zip</v8u:file>
+		<v8u:size>31113502</v8u:size>
+		<v8u:version>3.0.21.10</v8u:version>
+		<v8u:target>3.0.20.16</v8u:target>
+		<v8u:target>3.0.20.18</v8u:target>
+		<v8u:target>3.0.20.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_21_11/1cv8.zip</v8u:file>
+		<v8u:size>31528469</v8u:size>
+		<v8u:version>3.0.21.11</v8u:version>
+		<v8u:target>3.0.20.10</v8u:target>
+		<v8u:target>3.0.20.18</v8u:target>
+		<v8u:target>3.0.20.16</v8u:target>
+		<v8u:target>3.0.21.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_21_14/1cv8.zip</v8u:file>
+		<v8u:size>32026486</v8u:size>
+		<v8u:version>3.0.21.14</v8u:version>
+		<v8u:target>3.0.20.10</v8u:target>
+		<v8u:target>3.0.20.16</v8u:target>
+		<v8u:target>3.0.20.18</v8u:target>
+		<v8u:target>3.0.21.10</v8u:target>
+		<v8u:target>3.0.21.11</v8u:target>
+		<v8u:target>3.0.21.13</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_21_14/1cv8.zip</v8u:file>
+		<v8u:size>32026486</v8u:size>
+		<v8u:version>3.0.21.14</v8u:version>
+		<v8u:target>3.0.21.13</v8u:target>
+		<v8u:target>3.0.21.11</v8u:target>
+		<v8u:target>3.0.21.10</v8u:target>
+		<v8u:target>3.0.20.10</v8u:target>
+		<v8u:target>3.0.20.16</v8u:target>
+		<v8u:target>3.0.20.18</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_22_10/1cv8.zip</v8u:file>
+		<v8u:size>38941149</v8u:size>
+		<v8u:version>3.0.22.10</v8u:version>
+		<v8u:target>3.0.21.10</v8u:target>
+		<v8u:target>3.0.21.11</v8u:target>
+		<v8u:target>3.0.21.14</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_22_11/1cv8.zip</v8u:file>
+		<v8u:size>38973420</v8u:size>
+		<v8u:version>3.0.22.11</v8u:version>
+		<v8u:target>3.0.21.14</v8u:target>
+		<v8u:target>3.0.21.11</v8u:target>
+		<v8u:target>3.0.21.10</v8u:target>
+		<v8u:target>3.0.22.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_22_12/1cv8.zip</v8u:file>
+		<v8u:size>39983133</v8u:size>
+		<v8u:version>3.0.22.12</v8u:version>
+		<v8u:target>3.0.22.10</v8u:target>
+		<v8u:target>3.0.22.11</v8u:target>
+		<v8u:target>3.0.21.10</v8u:target>
+		<v8u:target>3.0.21.11</v8u:target>
+		<v8u:target>3.0.21.14</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_22_14/1cv8.zip</v8u:file>
+		<v8u:size>39987254</v8u:size>
+		<v8u:version>3.0.22.14</v8u:version>
+		<v8u:target>3.0.21.14</v8u:target>
+		<v8u:target>3.0.21.11</v8u:target>
+		<v8u:target>3.0.21.10</v8u:target>
+		<v8u:target>3.0.22.11</v8u:target>
+		<v8u:target>3.0.22.10</v8u:target>
+		<v8u:target>3.0.22.12</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_23_6/1cv8.zip</v8u:file>
+		<v8u:size>34943805</v8u:size>
+		<v8u:version>3.0.23.6</v8u:version>
+		<v8u:target>3.0.22.12</v8u:target>
+		<v8u:target>3.0.22.14</v8u:target>
+		<v8u:target>3.0.22.10</v8u:target>
+		<v8u:target>3.0.22.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_23_7/1cv8.zip</v8u:file>
+		<v8u:size>34949518</v8u:size>
+		<v8u:version>3.0.23.7</v8u:version>
+		<v8u:target>3.0.22.11</v8u:target>
+		<v8u:target>3.0.22.10</v8u:target>
+		<v8u:target>3.0.22.14</v8u:target>
+		<v8u:target>3.0.22.12</v8u:target>
+		<v8u:target>3.0.23.6</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_23_7/1cv8.zip</v8u:file>
+		<v8u:size>34949518</v8u:size>
+		<v8u:version>3.0.23.7</v8u:version>
+		<v8u:target>3.0.23.6</v8u:target>
+		<v8u:target>3.0.22.12</v8u:target>
+		<v8u:target>3.0.22.14</v8u:target>
+		<v8u:target>3.0.22.10</v8u:target>
+		<v8u:target>3.0.22.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_23_8/1cv8.zip</v8u:file>
+		<v8u:size>35097799</v8u:size>
+		<v8u:version>3.0.23.8</v8u:version>
+		<v8u:target>3.0.22.11</v8u:target>
+		<v8u:target>3.0.22.10</v8u:target>
+		<v8u:target>3.0.22.14</v8u:target>
+		<v8u:target>3.0.22.12</v8u:target>
+		<v8u:target>3.0.23.6</v8u:target>
+		<v8u:target>3.0.23.7</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_23_9/1cv8.zip</v8u:file>
+		<v8u:size>35213841</v8u:size>
+		<v8u:version>3.0.23.9</v8u:version>
+		<v8u:target>3.0.23.7</v8u:target>
+		<v8u:target>3.0.23.6</v8u:target>
+		<v8u:target>3.0.23.8</v8u:target>
+		<v8u:target>3.0.22.14</v8u:target>
+		<v8u:target>3.0.22.11</v8u:target>
+		<v8u:target>3.0.22.12</v8u:target>
+		<v8u:target>3.0.22.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_24_9/1cv8.zip</v8u:file>
+		<v8u:size>24981361</v8u:size>
+		<v8u:version>3.0.24.9</v8u:version>
+		<v8u:target>3.0.23.7</v8u:target>
+		<v8u:target>3.0.23.9</v8u:target>
+		<v8u:target>3.0.23.8</v8u:target>
+		<v8u:target>3.0.23.6</v8u:target>
+		<v8u:target>3.0.23.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_24_11/1cv8.zip</v8u:file>
+		<v8u:size>25021659</v8u:size>
+		<v8u:version>3.0.24.11</v8u:version>
+		<v8u:target>3.0.23.6</v8u:target>
+		<v8u:target>3.0.23.8</v8u:target>
+		<v8u:target>3.0.23.7</v8u:target>
+		<v8u:target>3.0.23.9</v8u:target>
+		<v8u:target>3.0.23.10</v8u:target>
+		<v8u:target>3.0.24.9</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_24_12/1cv8.zip</v8u:file>
+		<v8u:size>25247823</v8u:size>
+		<v8u:version>3.0.24.12</v8u:version>
+		<v8u:target>3.0.24.9</v8u:target>
+		<v8u:target>3.0.24.11</v8u:target>
+		<v8u:target>3.0.23.10</v8u:target>
+		<v8u:target>3.0.23.6</v8u:target>
+		<v8u:target>3.0.23.9</v8u:target>
+		<v8u:target>3.0.23.7</v8u:target>
+		<v8u:target>3.0.23.8</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_25_7/1cv8.zip</v8u:file>
+		<v8u:size>45096646</v8u:size>
+		<v8u:version>3.0.25.7</v8u:version>
+		<v8u:target>3.0.24.11</v8u:target>
+		<v8u:target>3.0.24.9</v8u:target>
+		<v8u:target>3.0.24.12</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_25_7/1cv8.zip</v8u:file>
+		<v8u:size>45096646</v8u:size>
+		<v8u:version>3.0.25.7</v8u:version>
+		<v8u:target>3.0.24.12</v8u:target>
+		<v8u:target>3.0.24.9</v8u:target>
+		<v8u:target>3.0.24.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_25_9/1cv8.zip</v8u:file>
+		<v8u:size>48559989</v8u:size>
+		<v8u:version>3.0.25.9</v8u:version>
+		<v8u:target>3.0.24.11</v8u:target>
+		<v8u:target>3.0.24.9</v8u:target>
+		<v8u:target>3.0.24.12</v8u:target>
+		<v8u:target>3.0.25.8</v8u:target>
+		<v8u:target>3.0.25.7</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_26_6/1cv8.zip</v8u:file>
+		<v8u:size>31948417</v8u:size>
+		<v8u:version>3.0.26.6</v8u:version>
+		<v8u:target>3.0.25.7</v8u:target>
+		<v8u:target>3.0.25.9</v8u:target>
+		<v8u:target>3.0.25.8</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_26_6/1cv8.zip</v8u:file>
+		<v8u:size>31948417</v8u:size>
+		<v8u:version>3.0.26.6</v8u:version>
+		<v8u:target>3.0.25.8</v8u:target>
+		<v8u:target>3.0.25.9</v8u:target>
+		<v8u:target>3.0.25.7</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_26_9/1cv8.zip</v8u:file>
+		<v8u:size>30876768</v8u:size>
+		<v8u:version>3.0.26.9</v8u:version>
+		<v8u:target>3.0.25.7</v8u:target>
+		<v8u:target>3.0.25.9</v8u:target>
+		<v8u:target>3.0.25.8</v8u:target>
+		<v8u:target>3.0.26.6</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_26_11/1cv8.zip</v8u:file>
+		<v8u:size>31092265</v8u:size>
+		<v8u:version>3.0.26.11</v8u:version>
+		<v8u:target>3.0.26.10</v8u:target>
+		<v8u:target>3.0.26.9</v8u:target>
+		<v8u:target>3.0.26.6</v8u:target>
+		<v8u:target>3.0.25.7</v8u:target>
+		<v8u:target>3.0.25.9</v8u:target>
+		<v8u:target>3.0.25.8</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_26_11/1cv8.zip</v8u:file>
+		<v8u:size>31092265</v8u:size>
+		<v8u:version>3.0.26.11</v8u:version>
+		<v8u:target>3.0.25.8</v8u:target>
+		<v8u:target>3.0.25.9</v8u:target>
+		<v8u:target>3.0.25.7</v8u:target>
+		<v8u:target>3.0.26.6</v8u:target>
+		<v8u:target>3.0.26.9</v8u:target>
+		<v8u:target>3.0.26.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_27_7/1cv8.zip</v8u:file>
+		<v8u:size>34938891</v8u:size>
+		<v8u:version>3.0.27.7</v8u:version>
+		<v8u:target>3.0.26.11</v8u:target>
+		<v8u:target>3.0.26.9</v8u:target>
+		<v8u:target>3.0.26.6</v8u:target>
+		<v8u:target>3.0.26.13</v8u:target>
+		<v8u:target>3.0.26.12</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_27_7/1cv8.zip</v8u:file>
+		<v8u:size>34938891</v8u:size>
+		<v8u:version>3.0.27.7</v8u:version>
+		<v8u:target>3.0.26.12</v8u:target>
+		<v8u:target>3.0.26.13</v8u:target>
+		<v8u:target>3.0.26.6</v8u:target>
+		<v8u:target>3.0.26.9</v8u:target>
+		<v8u:target>3.0.26.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_27_9/1cv8.zip</v8u:file>
+		<v8u:size>34995601</v8u:size>
+		<v8u:version>3.0.27.9</v8u:version>
+		<v8u:target>3.0.26.11</v8u:target>
+		<v8u:target>3.0.26.9</v8u:target>
+		<v8u:target>3.0.26.6</v8u:target>
+		<v8u:target>3.0.26.13</v8u:target>
+		<v8u:target>3.0.26.12</v8u:target>
+		<v8u:target>3.0.27.7</v8u:target>
+		<v8u:target>3.0.27.8</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_27_10/1cv8.zip</v8u:file>
+		<v8u:size>35085809</v8u:size>
+		<v8u:version>3.0.27.10</v8u:version>
+		<v8u:target>3.0.26.6</v8u:target>
+		<v8u:target>3.0.26.9</v8u:target>
+		<v8u:target>3.0.26.11</v8u:target>
+		<v8u:target>3.0.27.9</v8u:target>
+		<v8u:target>3.0.27.7</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_28_7/1cv8.zip</v8u:file>
+		<v8u:size>45498201</v8u:size>
+		<v8u:version>3.0.28.7</v8u:version>
+		<v8u:target>3.0.27.9</v8u:target>
+		<v8u:target>3.0.27.7</v8u:target>
+		<v8u:target>3.0.28.1</v8u:target>
+		<v8u:target>3.0.27.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_28_7/1cv8.zip</v8u:file>
+		<v8u:size>45498201</v8u:size>
+		<v8u:version>3.0.28.7</v8u:version>
+		<v8u:target>3.0.27.10</v8u:target>
+		<v8u:target>3.0.28.1</v8u:target>
+		<v8u:target>3.0.27.7</v8u:target>
+		<v8u:target>3.0.27.9</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_28_12/1cv8.zip</v8u:file>
+		<v8u:size>74033734</v8u:size>
+		<v8u:version>3.0.28.12</v8u:version>
+		<v8u:target>3.0.27.7</v8u:target>
+		<v8u:target>3.0.28.7</v8u:target>
+		<v8u:target>3.0.27.10</v8u:target>
+		<v8u:target>3.0.27.9</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_28_13/1cv8.zip</v8u:file>
+		<v8u:size>74032732</v8u:size>
+		<v8u:version>3.0.28.13</v8u:version>
+		<v8u:target>3.0.27.9</v8u:target>
+		<v8u:target>3.0.27.10</v8u:target>
+		<v8u:target>3.0.28.12</v8u:target>
+		<v8u:target>3.0.28.7</v8u:target>
+		<v8u:target>3.0.27.7</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_28_14/1cv8.zip</v8u:file>
+		<v8u:size>74033082</v8u:size>
+		<v8u:version>3.0.28.14</v8u:version>
+		<v8u:target>3.0.27.7</v8u:target>
+		<v8u:target>3.0.28.7</v8u:target>
+		<v8u:target>3.0.28.12</v8u:target>
+		<v8u:target>3.0.28.13</v8u:target>
+		<v8u:target>3.0.27.10</v8u:target>
+		<v8u:target>3.0.27.9</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_28_15/1cv8.zip</v8u:file>
+		<v8u:size>74088716</v8u:size>
+		<v8u:version>3.0.28.15</v8u:version>
+		<v8u:target>3.0.27.9</v8u:target>
+		<v8u:target>3.0.27.10</v8u:target>
+		<v8u:target>3.0.28.12</v8u:target>
+		<v8u:target>3.0.28.7</v8u:target>
+		<v8u:target>3.0.28.13</v8u:target>
+		<v8u:target>3.0.28.14</v8u:target>
+		<v8u:target>3.0.27.7</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_29_5/1cv8.zip</v8u:file>
+		<v8u:size>51281872</v8u:size>
+		<v8u:version>3.0.29.5</v8u:version>
+		<v8u:target>3.0.29.3</v8u:target>
+		<v8u:target>3.0.28.12</v8u:target>
+		<v8u:target>3.0.28.14</v8u:target>
+		<v8u:target>3.0.28.15</v8u:target>
+		<v8u:target>3.0.28.13</v8u:target>
+		<v8u:target>3.0.28.7</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_29_6/1cv8.zip</v8u:file>
+		<v8u:size>51321249</v8u:size>
+		<v8u:version>3.0.29.6</v8u:version>
+		<v8u:target>3.0.28.14</v8u:target>
+		<v8u:target>3.0.28.13</v8u:target>
+		<v8u:target>3.0.28.15</v8u:target>
+		<v8u:target>3.0.28.12</v8u:target>
+		<v8u:target>3.0.28.7</v8u:target>
+		<v8u:target>3.0.29.5</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_29_7/1cv8.zip</v8u:file>
+		<v8u:size>51332855</v8u:size>
+		<v8u:version>3.0.29.7</v8u:version>
+		<v8u:target>3.0.29.5</v8u:target>
+		<v8u:target>3.0.29.6</v8u:target>
+		<v8u:target>3.0.28.7</v8u:target>
+		<v8u:target>3.0.28.12</v8u:target>
+		<v8u:target>3.0.28.15</v8u:target>
+		<v8u:target>3.0.28.13</v8u:target>
+		<v8u:target>3.0.28.14</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_29_8/1cv8.zip</v8u:file>
+		<v8u:size>51417250</v8u:size>
+		<v8u:version>3.0.29.8</v8u:version>
+		<v8u:target>3.0.28.14</v8u:target>
+		<v8u:target>3.0.28.12</v8u:target>
+		<v8u:target>3.0.28.13</v8u:target>
+		<v8u:target>3.0.28.7</v8u:target>
+		<v8u:target>3.0.28.15</v8u:target>
+		<v8u:target>3.0.29.6</v8u:target>
+		<v8u:target>3.0.29.5</v8u:target>
+		<v8u:target>3.0.29.7</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_30_11/1cv8.zip</v8u:file>
+		<v8u:size>44297215</v8u:size>
+		<v8u:version>3.0.30.11</v8u:version>
+		<v8u:target>3.0.29.7</v8u:target>
+		<v8u:target>3.0.29.8</v8u:target>
+		<v8u:target>3.0.29.5</v8u:target>
+		<v8u:target>3.0.29.6</v8u:target>
+		<v8u:target>3.0.30.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_30_12/1cv8.zip</v8u:file>
+		<v8u:size>44283884</v8u:size>
+		<v8u:version>3.0.30.12</v8u:version>
+		<v8u:target>3.0.30.10</v8u:target>
+		<v8u:target>3.0.30.11</v8u:target>
+		<v8u:target>3.0.29.6</v8u:target>
+		<v8u:target>3.0.29.5</v8u:target>
+		<v8u:target>3.0.29.8</v8u:target>
+		<v8u:target>3.0.29.7</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_30_14/1cv8.zip</v8u:file>
+		<v8u:size>44351924</v8u:size>
+		<v8u:version>3.0.30.14</v8u:version>
+		<v8u:target>3.0.29.7</v8u:target>
+		<v8u:target>3.0.29.8</v8u:target>
+		<v8u:target>3.0.29.6</v8u:target>
+		<v8u:target>3.0.29.5</v8u:target>
+		<v8u:target>3.0.30.11</v8u:target>
+		<v8u:target>3.0.30.12</v8u:target>
+		<v8u:target>3.0.30.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_30_15/1cv8.zip</v8u:file>
+		<v8u:size>44361818</v8u:size>
+		<v8u:version>3.0.30.15</v8u:version>
+		<v8u:target>3.0.30.10</v8u:target>
+		<v8u:target>3.0.30.12</v8u:target>
+		<v8u:target>3.0.30.11</v8u:target>
+		<v8u:target>3.0.30.14</v8u:target>
+		<v8u:target>3.0.29.5</v8u:target>
+		<v8u:target>3.0.29.6</v8u:target>
+		<v8u:target>3.0.29.8</v8u:target>
+		<v8u:target>3.0.29.7</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_30_16/1cv8.zip</v8u:file>
+		<v8u:size>44393410</v8u:size>
+		<v8u:version>3.0.30.16</v8u:version>
+		<v8u:target>3.0.29.7</v8u:target>
+		<v8u:target>3.0.29.8</v8u:target>
+		<v8u:target>3.0.29.6</v8u:target>
+		<v8u:target>3.0.29.5</v8u:target>
+		<v8u:target>3.0.30.14</v8u:target>
+		<v8u:target>3.0.30.15</v8u:target>
+		<v8u:target>3.0.30.11</v8u:target>
+		<v8u:target>3.0.30.12</v8u:target>
+		<v8u:target>3.0.30.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_30_17/1cv8.zip</v8u:file>
+		<v8u:size>45223990</v8u:size>
+		<v8u:version>3.0.30.17</v8u:version>
+		<v8u:target>3.0.30.12</v8u:target>
+		<v8u:target>3.0.30.11</v8u:target>
+		<v8u:target>3.0.30.15</v8u:target>
+		<v8u:target>3.0.30.14</v8u:target>
+		<v8u:target>3.0.30.10</v8u:target>
+		<v8u:target>3.0.30.16</v8u:target>
+		<v8u:target>3.0.29.5</v8u:target>
+		<v8u:target>3.0.29.6</v8u:target>
+		<v8u:target>3.0.29.8</v8u:target>
+		<v8u:target>3.0.29.7</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_31_9/1cv8.zip</v8u:file>
+		<v8u:size>34780442</v8u:size>
+		<v8u:version>3.0.31.9</v8u:version>
+		<v8u:target>3.0.31.6</v8u:target>
+		<v8u:target>3.0.30.17</v8u:target>
+		<v8u:target>3.0.30.15</v8u:target>
+		<v8u:target>3.0.30.10</v8u:target>
+		<v8u:target>3.0.30.14</v8u:target>
+		<v8u:target>3.0.30.16</v8u:target>
+		<v8u:target>3.0.30.12</v8u:target>
+		<v8u:target>3.0.30.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_31_10/1cv8.zip</v8u:file>
+		<v8u:size>34820424</v8u:size>
+		<v8u:version>3.0.31.10</v8u:version>
+		<v8u:target>3.0.30.16</v8u:target>
+		<v8u:target>3.0.30.17</v8u:target>
+		<v8u:target>3.0.30.10</v8u:target>
+		<v8u:target>3.0.30.14</v8u:target>
+		<v8u:target>3.0.30.15</v8u:target>
+		<v8u:target>3.0.30.12</v8u:target>
+		<v8u:target>3.0.30.11</v8u:target>
+		<v8u:target>3.0.31.9</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_31_11/1cv8.zip</v8u:file>
+		<v8u:size>34820092</v8u:size>
+		<v8u:version>3.0.31.11</v8u:version>
+		<v8u:target>3.0.31.9</v8u:target>
+		<v8u:target>3.0.31.10</v8u:target>
+		<v8u:target>3.0.30.11</v8u:target>
+		<v8u:target>3.0.30.12</v8u:target>
+		<v8u:target>3.0.30.15</v8u:target>
+		<v8u:target>3.0.30.14</v8u:target>
+		<v8u:target>3.0.30.10</v8u:target>
+		<v8u:target>3.0.30.17</v8u:target>
+		<v8u:target>3.0.30.16</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_31_12/1cv8.zip</v8u:file>
+		<v8u:size>34838936</v8u:size>
+		<v8u:version>3.0.31.12</v8u:version>
+		<v8u:target>3.0.30.16</v8u:target>
+		<v8u:target>3.0.30.17</v8u:target>
+		<v8u:target>3.0.30.10</v8u:target>
+		<v8u:target>3.0.30.14</v8u:target>
+		<v8u:target>3.0.30.15</v8u:target>
+		<v8u:target>3.0.30.12</v8u:target>
+		<v8u:target>3.0.30.11</v8u:target>
+		<v8u:target>3.0.31.10</v8u:target>
+		<v8u:target>3.0.31.9</v8u:target>
+		<v8u:target>3.0.31.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_31_13/1cv8.zip</v8u:file>
+		<v8u:size>34847283</v8u:size>
+		<v8u:version>3.0.31.13</v8u:version>
+		<v8u:target>3.0.31.11</v8u:target>
+		<v8u:target>3.0.31.12</v8u:target>
+		<v8u:target>3.0.31.9</v8u:target>
+		<v8u:target>3.0.31.10</v8u:target>
+		<v8u:target>3.0.30.11</v8u:target>
+		<v8u:target>3.0.30.12</v8u:target>
+		<v8u:target>3.0.30.10</v8u:target>
+		<v8u:target>3.0.30.15</v8u:target>
+		<v8u:target>3.0.30.14</v8u:target>
+		<v8u:target>3.0.30.17</v8u:target>
+		<v8u:target>3.0.30.16</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_31_14/1cv8.zip</v8u:file>
+		<v8u:size>45657725</v8u:size>
+		<v8u:version>3.0.31.14</v8u:version>
+		<v8u:target>3.0.30.17</v8u:target>
+		<v8u:target>3.0.30.14</v8u:target>
+		<v8u:target>3.0.30.15</v8u:target>
+		<v8u:target>3.0.30.16</v8u:target>
+		<v8u:target>3.0.30.10</v8u:target>
+		<v8u:target>3.0.30.12</v8u:target>
+		<v8u:target>3.0.30.11</v8u:target>
+		<v8u:target>3.0.31.10</v8u:target>
+		<v8u:target>3.0.31.9</v8u:target>
+		<v8u:target>3.0.31.13</v8u:target>
+		<v8u:target>3.0.31.12</v8u:target>
+		<v8u:target>3.0.31.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_31_15/1cv8.zip</v8u:file>
+		<v8u:size>45647818</v8u:size>
+		<v8u:version>3.0.31.15</v8u:version>
+		<v8u:target>3.0.31.11</v8u:target>
+		<v8u:target>3.0.31.12</v8u:target>
+		<v8u:target>3.0.31.13</v8u:target>
+		<v8u:target>3.0.31.14</v8u:target>
+		<v8u:target>3.0.31.9</v8u:target>
+		<v8u:target>3.0.31.10</v8u:target>
+		<v8u:target>3.0.30.11</v8u:target>
+		<v8u:target>3.0.30.12</v8u:target>
+		<v8u:target>3.0.30.16</v8u:target>
+		<v8u:target>3.0.30.15</v8u:target>
+		<v8u:target>3.0.30.14</v8u:target>
+		<v8u:target>3.0.30.17</v8u:target>
+		<v8u:target>3.0.30.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_31_16/1cv8.zip</v8u:file>
+		<v8u:size>45446352</v8u:size>
+		<v8u:version>3.0.31.16</v8u:version>
+		<v8u:target>3.0.30.17</v8u:target>
+		<v8u:target>3.0.31.10</v8u:target>
+		<v8u:target>3.0.31.9</v8u:target>
+		<v8u:target>3.0.31.14</v8u:target>
+		<v8u:target>3.0.31.13</v8u:target>
+		<v8u:target>3.0.31.12</v8u:target>
+		<v8u:target>3.0.31.11</v8u:target>
+		<v8u:target>3.0.31.15</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_32_5/1cv8.zip</v8u:file>
+		<v8u:size>30527813</v8u:size>
+		<v8u:version>3.0.32.5</v8u:version>
+		<v8u:target>3.0.31.16</v8u:target>
+		<v8u:target>3.0.31.9</v8u:target>
+		<v8u:target>3.0.31.13</v8u:target>
+		<v8u:target>3.0.31.14</v8u:target>
+		<v8u:target>3.0.31.15</v8u:target>
+		<v8u:target>3.0.31.11</v8u:target>
+		<v8u:target>3.0.31.10</v8u:target>
+		<v8u:target>3.0.31.12</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_32_6/1cv8.zip</v8u:file>
+		<v8u:size>30549898</v8u:size>
+		<v8u:version>3.0.32.6</v8u:version>
+		<v8u:target>3.0.31.12</v8u:target>
+		<v8u:target>3.0.31.10</v8u:target>
+		<v8u:target>3.0.31.11</v8u:target>
+		<v8u:target>3.0.31.15</v8u:target>
+		<v8u:target>3.0.31.14</v8u:target>
+		<v8u:target>3.0.31.13</v8u:target>
+		<v8u:target>3.0.31.9</v8u:target>
+		<v8u:target>3.0.31.16</v8u:target>
+		<v8u:target>3.0.32.5</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_32_7/1cv8.zip</v8u:file>
+		<v8u:size>30581958</v8u:size>
+		<v8u:version>3.0.32.7</v8u:version>
+		<v8u:target>3.0.32.5</v8u:target>
+		<v8u:target>3.0.32.6</v8u:target>
+		<v8u:target>3.0.31.16</v8u:target>
+		<v8u:target>3.0.31.9</v8u:target>
+		<v8u:target>3.0.31.13</v8u:target>
+		<v8u:target>3.0.31.12</v8u:target>
+		<v8u:target>3.0.31.14</v8u:target>
+		<v8u:target>3.0.31.15</v8u:target>
+		<v8u:target>3.0.31.10</v8u:target>
+		<v8u:target>3.0.31.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_33_15/1cv8.zip</v8u:file>
+		<v8u:size>92706796</v8u:size>
+		<v8u:version>3.0.33.15</v8u:version>
+		<v8u:target>3.0.32.6</v8u:target>
+		<v8u:target>3.0.32.5</v8u:target>
+		<v8u:target>3.0.32.7</v8u:target>
+		<v8u:target>3.0.33.8</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_33_16/1cv8.zip</v8u:file>
+		<v8u:size>92776692</v8u:size>
+		<v8u:version>3.0.33.16</v8u:version>
+		<v8u:target>3.0.33.15</v8u:target>
+		<v8u:target>3.0.32.7</v8u:target>
+		<v8u:target>3.0.32.5</v8u:target>
+		<v8u:target>3.0.32.6</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_33_18/1cv8.zip</v8u:file>
+		<v8u:size>92787414</v8u:size>
+		<v8u:version>3.0.33.18</v8u:version>
+		<v8u:target>3.0.32.6</v8u:target>
+		<v8u:target>3.0.32.5</v8u:target>
+		<v8u:target>3.0.32.7</v8u:target>
+		<v8u:target>3.0.33.15</v8u:target>
+		<v8u:target>3.0.33.16</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_33_19/1cv8.zip</v8u:file>
+		<v8u:size>92848833</v8u:size>
+		<v8u:version>3.0.33.19</v8u:version>
+		<v8u:target>3.0.33.16</v8u:target>
+		<v8u:target>3.0.33.18</v8u:target>
+		<v8u:target>3.0.33.15</v8u:target>
+		<v8u:target>3.0.32.7</v8u:target>
+		<v8u:target>3.0.32.5</v8u:target>
+		<v8u:target>3.0.32.6</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_33_20/1cv8.zip</v8u:file>
+		<v8u:size>92787131</v8u:size>
+		<v8u:version>3.0.33.20</v8u:version>
+		<v8u:target>3.0.32.6</v8u:target>
+		<v8u:target>3.0.32.7</v8u:target>
+		<v8u:target>3.0.32.5</v8u:target>
+		<v8u:target>3.0.33.15</v8u:target>
+		<v8u:target>3.0.33.19</v8u:target>
+		<v8u:target>3.0.33.18</v8u:target>
+		<v8u:target>3.0.33.16</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_34_10/1cv8.zip</v8u:file>
+		<v8u:size>49492122</v8u:size>
+		<v8u:version>3.0.34.10</v8u:version>
+		<v8u:target>3.0.33.16</v8u:target>
+		<v8u:target>3.0.33.18</v8u:target>
+		<v8u:target>3.0.33.19</v8u:target>
+		<v8u:target>3.0.33.20</v8u:target>
+		<v8u:target>3.0.33.15</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_34_11/1cv8.zip</v8u:file>
+		<v8u:size>49636069</v8u:size>
+		<v8u:version>3.0.34.11</v8u:version>
+		<v8u:target>3.0.33.15</v8u:target>
+		<v8u:target>3.0.33.20</v8u:target>
+		<v8u:target>3.0.33.19</v8u:target>
+		<v8u:target>3.0.33.18</v8u:target>
+		<v8u:target>3.0.33.16</v8u:target>
+		<v8u:target>3.0.34.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_34_13/1cv8.zip</v8u:file>
+		<v8u:size>49644491</v8u:size>
+		<v8u:version>3.0.34.13</v8u:version>
+		<v8u:target>3.0.34.10</v8u:target>
+		<v8u:target>3.0.34.11</v8u:target>
+		<v8u:target>3.0.33.18</v8u:target>
+		<v8u:target>3.0.33.15</v8u:target>
+		<v8u:target>3.0.33.19</v8u:target>
+		<v8u:target>3.0.33.16</v8u:target>
+		<v8u:target>3.0.33.20</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_34_14/1cv8.zip</v8u:file>
+		<v8u:size>51043986</v8u:size>
+		<v8u:version>3.0.34.14</v8u:version>
+		<v8u:target>3.0.33.20</v8u:target>
+		<v8u:target>3.0.33.19</v8u:target>
+		<v8u:target>3.0.34.11</v8u:target>
+		<v8u:target>3.0.34.13</v8u:target>
+		<v8u:target>3.0.34.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_34_17/1cv8.zip</v8u:file>
+		<v8u:size>51782812</v8u:size>
+		<v8u:version>3.0.34.17</v8u:version>
+		<v8u:target>3.0.34.10</v8u:target>
+		<v8u:target>3.0.34.13</v8u:target>
+		<v8u:target>3.0.34.14</v8u:target>
+		<v8u:target>3.0.34.11</v8u:target>
+		<v8u:target>3.0.33.19</v8u:target>
+		<v8u:target>3.0.33.20</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_34_18/1cv8.zip</v8u:file>
+		<v8u:size>51926396</v8u:size>
+		<v8u:version>3.0.34.18</v8u:version>
+		<v8u:target>3.0.33.20</v8u:target>
+		<v8u:target>3.0.33.19</v8u:target>
+		<v8u:target>3.0.34.11</v8u:target>
+		<v8u:target>3.0.34.14</v8u:target>
+		<v8u:target>3.0.34.17</v8u:target>
+		<v8u:target>3.0.34.13</v8u:target>
+		<v8u:target>3.0.34.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_35_23/1cv8.zip</v8u:file>
+		<v8u:size>68202754</v8u:size>
+		<v8u:version>3.0.35.23</v8u:version>
+		<v8u:target>3.0.34.10</v8u:target>
+		<v8u:target>3.0.34.13</v8u:target>
+		<v8u:target>3.0.34.11</v8u:target>
+		<v8u:target>3.0.34.17</v8u:target>
+		<v8u:target>3.0.34.14</v8u:target>
+		<v8u:target>3.0.34.18</v8u:target>
+		<v8u:target>3.0.35.21</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_35_24/1cv8.zip</v8u:file>
+		<v8u:size>69020914</v8u:size>
+		<v8u:version>3.0.35.24</v8u:version>
+		<v8u:target>3.0.35.23</v8u:target>
+		<v8u:target>3.0.34.14</v8u:target>
+		<v8u:target>3.0.34.17</v8u:target>
+		<v8u:target>3.0.34.18</v8u:target>
+		<v8u:target>3.0.34.11</v8u:target>
+		<v8u:target>3.0.34.13</v8u:target>
+		<v8u:target>3.0.34.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_35_25/1cv8.zip</v8u:file>
+		<v8u:size>69037495</v8u:size>
+		<v8u:version>3.0.35.25</v8u:version>
+		<v8u:target>3.0.34.13</v8u:target>
+		<v8u:target>3.0.34.11</v8u:target>
+		<v8u:target>3.0.34.18</v8u:target>
+		<v8u:target>3.0.34.17</v8u:target>
+		<v8u:target>3.0.34.14</v8u:target>
+		<v8u:target>3.0.34.10</v8u:target>
+		<v8u:target>3.0.35.23</v8u:target>
+		<v8u:target>3.0.35.24</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_35_26/1cv8.zip</v8u:file>
+		<v8u:size>71796341</v8u:size>
+		<v8u:version>3.0.35.26</v8u:version>
+		<v8u:target>3.0.35.24</v8u:target>
+		<v8u:target>3.0.35.23</v8u:target>
+		<v8u:target>3.0.35.25</v8u:target>
+		<v8u:target>3.0.34.10</v8u:target>
+		<v8u:target>3.0.34.14</v8u:target>
+		<v8u:target>3.0.34.18</v8u:target>
+		<v8u:target>3.0.34.17</v8u:target>
+		<v8u:target>3.0.34.13</v8u:target>
+		<v8u:target>3.0.34.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_35_27/1cv8.zip</v8u:file>
+		<v8u:size>71801835</v8u:size>
+		<v8u:version>3.0.35.27</v8u:version>
+		<v8u:target>3.0.34.11</v8u:target>
+		<v8u:target>3.0.34.13</v8u:target>
+		<v8u:target>3.0.34.18</v8u:target>
+		<v8u:target>3.0.34.17</v8u:target>
+		<v8u:target>3.0.34.14</v8u:target>
+		<v8u:target>3.0.34.10</v8u:target>
+		<v8u:target>3.0.35.25</v8u:target>
+		<v8u:target>3.0.35.23</v8u:target>
+		<v8u:target>3.0.35.24</v8u:target>
+		<v8u:target>3.0.35.26</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_35_28/1cv8.zip</v8u:file>
+		<v8u:size>71832910</v8u:size>
+		<v8u:version>3.0.35.28</v8u:version>
+		<v8u:target>3.0.35.26</v8u:target>
+		<v8u:target>3.0.35.23</v8u:target>
+		<v8u:target>3.0.35.24</v8u:target>
+		<v8u:target>3.0.35.25</v8u:target>
+		<v8u:target>3.0.35.27</v8u:target>
+		<v8u:target>3.0.34.10</v8u:target>
+		<v8u:target>3.0.34.14</v8u:target>
+		<v8u:target>3.0.34.17</v8u:target>
+		<v8u:target>3.0.34.18</v8u:target>
+		<v8u:target>3.0.34.13</v8u:target>
+		<v8u:target>3.0.34.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_36_11/1cv8.zip</v8u:file>
+		<v8u:size>48958332</v8u:size>
+		<v8u:version>3.0.36.11</v8u:version>
+		<v8u:target>3.0.35.27</v8u:target>
+		<v8u:target>3.0.35.28</v8u:target>
+		<v8u:target>3.0.35.26</v8u:target>
+		<v8u:target>3.0.35.23</v8u:target>
+		<v8u:target>3.0.35.25</v8u:target>
+		<v8u:target>3.0.35.24</v8u:target>
+		<v8u:target>3.0.36.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_36_12/1cv8.zip</v8u:file>
+		<v8u:size>50008334</v8u:size>
+		<v8u:version>3.0.36.12</v8u:version>
+		<v8u:target>3.0.36.11</v8u:target>
+		<v8u:target>3.0.35.24</v8u:target>
+		<v8u:target>3.0.35.23</v8u:target>
+		<v8u:target>3.0.35.26</v8u:target>
+		<v8u:target>3.0.35.25</v8u:target>
+		<v8u:target>3.0.35.28</v8u:target>
+		<v8u:target>3.0.35.27</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_36_13/1cv8.zip</v8u:file>
+		<v8u:size>50117218</v8u:size>
+		<v8u:version>3.0.36.13</v8u:version>
+		<v8u:target>3.0.35.28</v8u:target>
+		<v8u:target>3.0.35.25</v8u:target>
+		<v8u:target>3.0.35.26</v8u:target>
+		<v8u:target>3.0.35.27</v8u:target>
+		<v8u:target>3.0.35.23</v8u:target>
+		<v8u:target>3.0.35.24</v8u:target>
+		<v8u:target>3.0.36.11</v8u:target>
+		<v8u:target>3.0.36.12</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_36_14/1cv8.zip</v8u:file>
+		<v8u:size>50252434</v8u:size>
+		<v8u:version>3.0.36.14</v8u:version>
+		<v8u:target>3.0.36.12</v8u:target>
+		<v8u:target>3.0.36.13</v8u:target>
+		<v8u:target>3.0.36.11</v8u:target>
+		<v8u:target>3.0.35.24</v8u:target>
+		<v8u:target>3.0.35.23</v8u:target>
+		<v8u:target>3.0.35.27</v8u:target>
+		<v8u:target>3.0.35.26</v8u:target>
+		<v8u:target>3.0.35.25</v8u:target>
+		<v8u:target>3.0.35.28</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_36_15/1cv8.zip</v8u:file>
+		<v8u:size>50265108</v8u:size>
+		<v8u:version>3.0.36.15</v8u:version>
+		<v8u:target>3.0.35.28</v8u:target>
+		<v8u:target>3.0.35.25</v8u:target>
+		<v8u:target>3.0.35.26</v8u:target>
+		<v8u:target>3.0.35.27</v8u:target>
+		<v8u:target>3.0.35.24</v8u:target>
+		<v8u:target>3.0.35.23</v8u:target>
+		<v8u:target>3.0.36.11</v8u:target>
+		<v8u:target>3.0.36.13</v8u:target>
+		<v8u:target>3.0.36.14</v8u:target>
+		<v8u:target>3.0.36.12</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_36_16/1cv8.zip</v8u:file>
+		<v8u:size>50324658</v8u:size>
+		<v8u:version>3.0.36.16</v8u:version>
+		<v8u:target>3.0.36.12</v8u:target>
+		<v8u:target>3.0.36.13</v8u:target>
+		<v8u:target>3.0.36.15</v8u:target>
+		<v8u:target>3.0.36.14</v8u:target>
+		<v8u:target>3.0.36.11</v8u:target>
+		<v8u:target>3.0.35.23</v8u:target>
+		<v8u:target>3.0.35.24</v8u:target>
+		<v8u:target>3.0.35.26</v8u:target>
+		<v8u:target>3.0.35.25</v8u:target>
+		<v8u:target>3.0.35.28</v8u:target>
+		<v8u:target>3.0.35.27</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_36_17/1cv8.zip</v8u:file>
+		<v8u:size>50412989</v8u:size>
+		<v8u:version>3.0.36.17</v8u:version>
+		<v8u:target>3.0.35.27</v8u:target>
+		<v8u:target>3.0.35.26</v8u:target>
+		<v8u:target>3.0.35.25</v8u:target>
+		<v8u:target>3.0.35.23</v8u:target>
+		<v8u:target>3.0.35.28</v8u:target>
+		<v8u:target>3.0.35.24</v8u:target>
+		<v8u:target>3.0.36.16</v8u:target>
+		<v8u:target>3.0.36.14</v8u:target>
+		<v8u:target>3.0.36.15</v8u:target>
+		<v8u:target>3.0.36.13</v8u:target>
+		<v8u:target>3.0.36.12</v8u:target>
+		<v8u:target>3.0.36.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_36_18/1cv8.zip</v8u:file>
+		<v8u:size>48450029</v8u:size>
+		<v8u:version>3.0.36.18</v8u:version>
+		<v8u:target>3.0.36.11</v8u:target>
+		<v8u:target>3.0.36.12</v8u:target>
+		<v8u:target>3.0.36.13</v8u:target>
+		<v8u:target>3.0.36.15</v8u:target>
+		<v8u:target>3.0.36.14</v8u:target>
+		<v8u:target>3.0.36.16</v8u:target>
+		<v8u:target>3.0.36.17</v8u:target>
+		<v8u:target>3.0.35.28</v8u:target>
+		<v8u:target>3.0.35.26</v8u:target>
+		<v8u:target>3.0.35.27</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_36_19/1cv8.zip</v8u:file>
+		<v8u:size>48166031</v8u:size>
+		<v8u:version>3.0.36.19</v8u:version>
+		<v8u:target>3.0.35.27</v8u:target>
+		<v8u:target>3.0.35.28</v8u:target>
+		<v8u:target>3.0.36.17</v8u:target>
+		<v8u:target>3.0.36.16</v8u:target>
+		<v8u:target>3.0.36.18</v8u:target>
+		<v8u:target>3.0.36.14</v8u:target>
+		<v8u:target>3.0.36.13</v8u:target>
+		<v8u:target>3.0.36.15</v8u:target>
+		<v8u:target>3.0.36.12</v8u:target>
+		<v8u:target>3.0.36.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_36_21/1cv8.zip</v8u:file>
+		<v8u:size>48123802</v8u:size>
+		<v8u:version platform="8.3.4.365">3.0.36.21</v8u:version>
+		<v8u:target>3.0.36.11</v8u:target>
+		<v8u:target>3.0.36.12</v8u:target>
+		<v8u:target>3.0.36.15</v8u:target>
+		<v8u:target>3.0.36.13</v8u:target>
+		<v8u:target>3.0.36.14</v8u:target>
+		<v8u:target>3.0.36.18</v8u:target>
+		<v8u:target>3.0.36.16</v8u:target>
+		<v8u:target>3.0.36.17</v8u:target>
+		<v8u:target>3.0.36.19</v8u:target>
+		<v8u:target>3.0.35.28</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_37_25/1cv8.zip</v8u:file>
+		<v8u:size>69489472</v8u:size>
+		<v8u:version platform="8.3.5.1231">3.0.37.25</v8u:version>
+		<v8u:target>3.0.36.19</v8u:target>
+		<v8u:target>3.0.36.16</v8u:target>
+		<v8u:target>3.0.36.18</v8u:target>
+		<v8u:target>3.0.36.17</v8u:target>
+		<v8u:target>3.0.36.21</v8u:target>
+		<v8u:target>3.0.37.21</v8u:target>
+		<v8u:target>3.0.37.24</v8u:target>
+		<v8u:target>3.0.36.14</v8u:target>
+		<v8u:target>3.0.36.13</v8u:target>
+		<v8u:target>3.0.36.15</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_37_26/1cv8.zip</v8u:file>
+		<v8u:size>69594104</v8u:size>
+		<v8u:version platform="8.3.5.1231">3.0.37.26</v8u:version>
+		<v8u:target>3.0.36.13</v8u:target>
+		<v8u:target>3.0.36.14</v8u:target>
+		<v8u:target>3.0.36.12</v8u:target>
+		<v8u:target>3.0.36.15</v8u:target>
+		<v8u:target>3.0.37.25</v8u:target>
+		<v8u:target>3.0.36.21</v8u:target>
+		<v8u:target>3.0.36.17</v8u:target>
+		<v8u:target>3.0.36.16</v8u:target>
+		<v8u:target>3.0.36.19</v8u:target>
+		<v8u:target>3.0.36.18</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_37_27/1cv8.zip</v8u:file>
+		<v8u:size>69625763</v8u:size>
+		<v8u:version platform="8.3.5.1231">3.0.37.27</v8u:version>
+		<v8u:target>3.0.36.18</v8u:target>
+		<v8u:target>3.0.36.19</v8u:target>
+		<v8u:target>3.0.36.16</v8u:target>
+		<v8u:target>3.0.36.17</v8u:target>
+		<v8u:target>3.0.36.21</v8u:target>
+		<v8u:target>3.0.37.25</v8u:target>
+		<v8u:target>3.0.37.26</v8u:target>
+		<v8u:target>3.0.36.15</v8u:target>
+		<v8u:target>3.0.36.14</v8u:target>
+		<v8u:target>3.0.36.13</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_37_28/1cv8.zip</v8u:file>
+		<v8u:size>70772872</v8u:size>
+		<v8u:version platform="8.3.5.1231">3.0.37.28</v8u:version>
+		<v8u:target>3.0.36.14</v8u:target>
+		<v8u:target>3.0.36.15</v8u:target>
+		<v8u:target>3.0.37.26</v8u:target>
+		<v8u:target>3.0.37.27</v8u:target>
+		<v8u:target>3.0.37.25</v8u:target>
+		<v8u:target>3.0.36.21</v8u:target>
+		<v8u:target>3.0.36.19</v8u:target>
+		<v8u:target>3.0.36.17</v8u:target>
+		<v8u:target>3.0.36.16</v8u:target>
+		<v8u:target>3.0.36.18</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_37_29/1cv8.zip</v8u:file>
+		<v8u:size>70766204</v8u:size>
+		<v8u:version platform="8.3.5.1231">3.0.37.29</v8u:version>
+		<v8u:target>3.0.36.18</v8u:target>
+		<v8u:target>3.0.36.16</v8u:target>
+		<v8u:target>3.0.36.15</v8u:target>
+		<v8u:target>3.0.36.17</v8u:target>
+		<v8u:target>3.0.36.19</v8u:target>
+		<v8u:target>3.0.36.21</v8u:target>
+		<v8u:target>3.0.37.27</v8u:target>
+		<v8u:target>3.0.37.25</v8u:target>
+		<v8u:target>3.0.37.26</v8u:target>
+		<v8u:target>3.0.37.28</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_37_32/1cv8.zip</v8u:file>
+		<v8u:size>83208684</v8u:size>
+		<v8u:version platform="8.3.5.1231">3.0.37.32</v8u:version>
+		<v8u:target>3.0.37.28</v8u:target>
+		<v8u:target>3.0.37.27</v8u:target>
+		<v8u:target>3.0.37.26</v8u:target>
+		<v8u:target>3.0.37.29</v8u:target>
+		<v8u:target>3.0.37.25</v8u:target>
+		<v8u:target>3.0.36.19</v8u:target>
+		<v8u:target>3.0.36.17</v8u:target>
+		<v8u:target>3.0.36.16</v8u:target>
+		<v8u:target>3.0.36.18</v8u:target>
+		<v8u:target>3.0.36.21</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_37_34/1cv8.zip</v8u:file>
+		<v8u:size>89148046</v8u:size>
+		<v8u:version platform="8.3.5.1231">3.0.37.34</v8u:version>
+		<v8u:target>3.0.36.18</v8u:target>
+		<v8u:target>3.0.36.17</v8u:target>
+		<v8u:target>3.0.36.19</v8u:target>
+		<v8u:target>3.0.36.21</v8u:target>
+		<v8u:target>3.0.37.25</v8u:target>
+		<v8u:target>3.0.37.29</v8u:target>
+		<v8u:target>3.0.37.26</v8u:target>
+		<v8u:target>3.0.37.27</v8u:target>
+		<v8u:target>3.0.37.28</v8u:target>
+		<v8u:target>3.0.37.32</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_37_35/1cv8.zip</v8u:file>
+		<v8u:size>93205123</v8u:size>
+		<v8u:version platform="8.3.5.1248">3.0.37.35</v8u:version>
+		<v8u:target>3.0.37.32</v8u:target>
+		<v8u:target>3.0.37.28</v8u:target>
+		<v8u:target>3.0.37.27</v8u:target>
+		<v8u:target>3.0.37.26</v8u:target>
+		<v8u:target>3.0.37.29</v8u:target>
+		<v8u:target>3.0.37.34</v8u:target>
+		<v8u:target>3.0.37.25</v8u:target>
+		<v8u:target>3.0.36.21</v8u:target>
+		<v8u:target>3.0.36.19</v8u:target>
+		<v8u:target>3.0.36.18</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_37_36/1cv8.zip</v8u:file>
+		<v8u:size>93322182</v8u:size>
+		<v8u:version platform="8.3.5.1231">3.0.37.36</v8u:version>
+		<v8u:target>3.0.36.19</v8u:target>
+		<v8u:target>3.0.36.21</v8u:target>
+		<v8u:target>3.0.37.25</v8u:target>
+		<v8u:target>3.0.37.34</v8u:target>
+		<v8u:target>3.0.37.29</v8u:target>
+		<v8u:target>3.0.37.28</v8u:target>
+		<v8u:target>3.0.37.26</v8u:target>
+		<v8u:target>3.0.37.27</v8u:target>
+		<v8u:target>3.0.37.32</v8u:target>
+		<v8u:target>3.0.37.35</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_37_37/1cv8.zip</v8u:file>
+		<v8u:size>93320858</v8u:size>
+		<v8u:version platform="8.3.5.1248">3.0.37.37</v8u:version>
+		<v8u:target>3.0.37.35</v8u:target>
+		<v8u:target>3.0.37.36</v8u:target>
+		<v8u:target>3.0.37.32</v8u:target>
+		<v8u:target>3.0.37.27</v8u:target>
+		<v8u:target>3.0.37.26</v8u:target>
+		<v8u:target>3.0.37.28</v8u:target>
+		<v8u:target>3.0.37.29</v8u:target>
+		<v8u:target>3.0.37.34</v8u:target>
+		<v8u:target>3.0.37.25</v8u:target>
+		<v8u:target>3.0.36.21</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_37_38/1cv8.zip</v8u:file>
+		<v8u:size>56827475</v8u:size>
+		<v8u:version platform="8.3.5.1231">3.0.37.38</v8u:version>
+		<v8u:target>3.0.37.34</v8u:target>
+		<v8u:target>3.0.37.29</v8u:target>
+		<v8u:target>3.0.37.28</v8u:target>
+		<v8u:target>3.0.37.26</v8u:target>
+		<v8u:target>3.0.37.27</v8u:target>
+		<v8u:target>3.0.37.32</v8u:target>
+		<v8u:target>3.0.37.36</v8u:target>
+		<v8u:target>3.0.37.35</v8u:target>
+		<v8u:target>3.0.37.25</v8u:target>
+		<v8u:target>3.0.37.37</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_37_40/1cv8.zip</v8u:file>
+		<v8u:size>56663374</v8u:size>
+		<v8u:version platform="8.3.5.1248">3.0.37.40</v8u:version>
+		<v8u:target>3.0.37.37</v8u:target>
+		<v8u:target>3.0.37.32</v8u:target>
+		<v8u:target>3.0.37.29</v8u:target>
+		<v8u:target>3.0.37.36</v8u:target>
+		<v8u:target>3.0.37.38</v8u:target>
+		<v8u:target>3.0.37.35</v8u:target>
+		<v8u:target>3.0.37.26</v8u:target>
+		<v8u:target>3.0.37.28</v8u:target>
+		<v8u:target>3.0.37.27</v8u:target>
+		<v8u:target>3.0.37.34</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_37_41/1cv8.zip</v8u:file>
+		<v8u:size>53885429</v8u:size>
+		<v8u:version platform="8.3.5.1231">3.0.37.41</v8u:version>
+		<v8u:target>3.0.37.27</v8u:target>
+		<v8u:target>3.0.37.32</v8u:target>
+		<v8u:target>3.0.37.28</v8u:target>
+		<v8u:target>3.0.37.35</v8u:target>
+		<v8u:target>3.0.37.38</v8u:target>
+		<v8u:target>3.0.37.36</v8u:target>
+		<v8u:target>3.0.37.29</v8u:target>
+		<v8u:target>3.0.37.34</v8u:target>
+		<v8u:target>3.0.37.37</v8u:target>
+		<v8u:target>3.0.37.40</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_37_42/1cv8.zip</v8u:file>
+		<v8u:size>52053702</v8u:size>
+		<v8u:version platform="8.3.5.1231">3.0.37.42</v8u:version>
+		<v8u:target>3.0.37.40</v8u:target>
+		<v8u:target>3.0.37.41</v8u:target>
+		<v8u:target>3.0.37.34</v8u:target>
+		<v8u:target>3.0.37.29</v8u:target>
+		<v8u:target>3.0.37.36</v8u:target>
+		<v8u:target>3.0.37.38</v8u:target>
+		<v8u:target>3.0.37.37</v8u:target>
+		<v8u:target>3.0.37.35</v8u:target>
+		<v8u:target>3.0.37.28</v8u:target>
+		<v8u:target>3.0.37.32</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_37_43/1cv8.zip</v8u:file>
+		<v8u:size>51852187</v8u:size>
+		<v8u:version platform="8.3.5.1231">3.0.37.43</v8u:version>
+		<v8u:target>3.0.37.32</v8u:target>
+		<v8u:target>3.0.37.35</v8u:target>
+		<v8u:target>3.0.37.37</v8u:target>
+		<v8u:target>3.0.37.36</v8u:target>
+		<v8u:target>3.0.37.38</v8u:target>
+		<v8u:target>3.0.37.29</v8u:target>
+		<v8u:target>3.0.37.34</v8u:target>
+		<v8u:target>3.0.37.41</v8u:target>
+		<v8u:target>3.0.37.40</v8u:target>
+		<v8u:target>3.0.37.42</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_38_48/1cv8.zip</v8u:file>
+		<v8u:size>92846977</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.38.48</v8u:version>
+		<v8u:target>3.0.38.38</v8u:target>
+		<v8u:target>3.0.38.39</v8u:target>
+		<v8u:target>3.0.38.40</v8u:target>
+		<v8u:target>3.0.38.41</v8u:target>
+		<v8u:target>3.0.38.42</v8u:target>
+		<v8u:target>3.0.38.43</v8u:target>
+		<v8u:target>3.0.38.44</v8u:target>
+		<v8u:target>3.0.38.45</v8u:target>
+		<v8u:target>3.0.38.47</v8u:target>
+		<v8u:target>3.0.37.42</v8u:target>
+		<v8u:target>3.0.37.40</v8u:target>
+		<v8u:target>3.0.37.41</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_38_50/1cv8.zip</v8u:file>
+		<v8u:size>92848641</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.38.50</v8u:version>
+		<v8u:target>3.0.37.41</v8u:target>
+		<v8u:target>3.0.37.40</v8u:target>
+		<v8u:target>3.0.37.43</v8u:target>
+		<v8u:target>3.0.37.42</v8u:target>
+		<v8u:target>3.0.38.47</v8u:target>
+		<v8u:target>3.0.38.48</v8u:target>
+		<v8u:target>3.0.38.38</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_38_51/1cv8.zip</v8u:file>
+		<v8u:size>92825297</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.38.51</v8u:version>
+		<v8u:target>3.0.38.38</v8u:target>
+		<v8u:target>3.0.38.47</v8u:target>
+		<v8u:target>3.0.38.50</v8u:target>
+		<v8u:target>3.0.38.48</v8u:target>
+		<v8u:target>3.0.37.42</v8u:target>
+		<v8u:target>3.0.37.43</v8u:target>
+		<v8u:target>3.0.37.40</v8u:target>
+		<v8u:target>3.0.37.41</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_38_52/1cv8.zip</v8u:file>
+		<v8u:size>92855349</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.38.52</v8u:version>
+		<v8u:target>3.0.37.40</v8u:target>
+		<v8u:target>3.0.37.41</v8u:target>
+		<v8u:target>3.0.37.43</v8u:target>
+		<v8u:target>3.0.37.42</v8u:target>
+		<v8u:target>3.0.38.48</v8u:target>
+		<v8u:target>3.0.38.50</v8u:target>
+		<v8u:target>3.0.38.51</v8u:target>
+		<v8u:target>3.0.38.47</v8u:target>
+		<v8u:target>3.0.38.38</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_38_53/1cv8.zip</v8u:file>
+		<v8u:size>92850435</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.38.53</v8u:version>
+		<v8u:target>3.0.38.38</v8u:target>
+		<v8u:target>3.0.38.47</v8u:target>
+		<v8u:target>3.0.38.51</v8u:target>
+		<v8u:target>3.0.38.52</v8u:target>
+		<v8u:target>3.0.38.50</v8u:target>
+		<v8u:target>3.0.38.48</v8u:target>
+		<v8u:target>3.0.37.42</v8u:target>
+		<v8u:target>3.0.37.43</v8u:target>
+		<v8u:target>3.0.37.41</v8u:target>
+		<v8u:target>3.0.37.40</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_38_54/1cv8.zip</v8u:file>
+		<v8u:size>92957612</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.38.54</v8u:version>
+		<v8u:target>3.0.37.41</v8u:target>
+		<v8u:target>3.0.37.42</v8u:target>
+		<v8u:target>3.0.37.43</v8u:target>
+		<v8u:target>3.0.38.48</v8u:target>
+		<v8u:target>3.0.38.50</v8u:target>
+		<v8u:target>3.0.38.38</v8u:target>
+		<v8u:target>3.0.38.51</v8u:target>
+		<v8u:target>3.0.38.52</v8u:target>
+		<v8u:target>3.0.38.47</v8u:target>
+		<v8u:target>3.0.38.53</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_38_55/1cv8.zip</v8u:file>
+		<v8u:size>92962036</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.38.55</v8u:version>
+		<v8u:target>3.0.38.53</v8u:target>
+		<v8u:target>3.0.38.54</v8u:target>
+		<v8u:target>3.0.38.47</v8u:target>
+		<v8u:target>3.0.38.52</v8u:target>
+		<v8u:target>3.0.38.51</v8u:target>
+		<v8u:target>3.0.38.38</v8u:target>
+		<v8u:target>3.0.38.50</v8u:target>
+		<v8u:target>3.0.38.48</v8u:target>
+		<v8u:target>3.0.37.42</v8u:target>
+		<v8u:target>3.0.37.43</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_39_50/1cv8.zip</v8u:file>
+		<v8u:size>51504496</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.39.50</v8u:version>
+		<v8u:target>3.0.38.54</v8u:target>
+		<v8u:target>3.0.38.53</v8u:target>
+		<v8u:target>3.0.38.55</v8u:target>
+		<v8u:target>3.0.38.48</v8u:target>
+		<v8u:target>3.0.38.51</v8u:target>
+		<v8u:target>3.0.38.52</v8u:target>
+		<v8u:target>3.0.38.50</v8u:target>
+		<v8u:target>3.0.38.47</v8u:target>
+		<v8u:target>3.0.39.39</v8u:target>
+		<v8u:target>3.0.39.47</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_39_51/1cv8.zip</v8u:file>
+		<v8u:size>51516792</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.39.51</v8u:version>
+		<v8u:target>3.0.39.47</v8u:target>
+		<v8u:target>3.0.39.50</v8u:target>
+		<v8u:target>3.0.39.39</v8u:target>
+		<v8u:target>3.0.38.50</v8u:target>
+		<v8u:target>3.0.38.48</v8u:target>
+		<v8u:target>3.0.38.52</v8u:target>
+		<v8u:target>3.0.38.51</v8u:target>
+		<v8u:target>3.0.38.55</v8u:target>
+		<v8u:target>3.0.38.53</v8u:target>
+		<v8u:target>3.0.38.54</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_39_52/1cv8.zip</v8u:file>
+		<v8u:size>51508188</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.39.52</v8u:version>
+		<v8u:target>3.0.38.54</v8u:target>
+		<v8u:target>3.0.38.53</v8u:target>
+		<v8u:target>3.0.38.55</v8u:target>
+		<v8u:target>3.0.38.51</v8u:target>
+		<v8u:target>3.0.38.52</v8u:target>
+		<v8u:target>3.0.38.50</v8u:target>
+		<v8u:target>3.0.39.39</v8u:target>
+		<v8u:target>3.0.39.50</v8u:target>
+		<v8u:target>3.0.39.47</v8u:target>
+		<v8u:target>3.0.39.51</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_39_53/1cv8.zip</v8u:file>
+		<v8u:size>52262232</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.39.53</v8u:version>
+		<v8u:target>3.0.39.51</v8u:target>
+		<v8u:target>3.0.39.52</v8u:target>
+		<v8u:target>3.0.39.47</v8u:target>
+		<v8u:target>3.0.39.50</v8u:target>
+		<v8u:target>3.0.39.39</v8u:target>
+		<v8u:target>3.0.38.52</v8u:target>
+		<v8u:target>3.0.38.51</v8u:target>
+		<v8u:target>3.0.38.55</v8u:target>
+		<v8u:target>3.0.38.53</v8u:target>
+		<v8u:target>3.0.38.54</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_39_55/1cv8.zip</v8u:file>
+		<v8u:size>52263508</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.39.55</v8u:version>
+		<v8u:target>3.0.38.54</v8u:target>
+		<v8u:target>3.0.38.53</v8u:target>
+		<v8u:target>3.0.38.52</v8u:target>
+		<v8u:target>3.0.38.55</v8u:target>
+		<v8u:target>3.0.39.39</v8u:target>
+		<v8u:target>3.0.39.53</v8u:target>
+		<v8u:target>3.0.39.50</v8u:target>
+		<v8u:target>3.0.39.47</v8u:target>
+		<v8u:target>3.0.39.52</v8u:target>
+		<v8u:target>3.0.39.51</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_39_56/1cv8.zip</v8u:file>
+		<v8u:size>72286047</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.39.56</v8u:version>
+		<v8u:target>3.0.39.51</v8u:target>
+		<v8u:target>3.0.39.52</v8u:target>
+		<v8u:target>3.0.39.47</v8u:target>
+		<v8u:target>3.0.39.50</v8u:target>
+		<v8u:target>3.0.39.53</v8u:target>
+		<v8u:target>3.0.39.55</v8u:target>
+		<v8u:target>3.0.39.39</v8u:target>
+		<v8u:target>3.0.38.55</v8u:target>
+		<v8u:target>3.0.38.54</v8u:target>
+		<v8u:target>3.0.38.35</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_39_60/1cv8.zip</v8u:file>
+		<v8u:size>53246515</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.39.60</v8u:version>
+		<v8u:target>3.0.38.54</v8u:target>
+		<v8u:target>3.0.38.55</v8u:target>
+		<v8u:target>3.0.39.55</v8u:target>
+		<v8u:target>3.0.39.53</v8u:target>
+		<v8u:target>3.0.39.58</v8u:target>
+		<v8u:target>3.0.39.56</v8u:target>
+		<v8u:target>3.0.39.50</v8u:target>
+		<v8u:target>3.0.39.57</v8u:target>
+		<v8u:target>3.0.39.52</v8u:target>
+		<v8u:target>3.0.39.51</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_39_61/1cv8.zip</v8u:file>
+		<v8u:size>53260757</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.39.61</v8u:version>
+		<v8u:target>3.0.39.51</v8u:target>
+		<v8u:target>3.0.39.52</v8u:target>
+		<v8u:target>3.0.39.50</v8u:target>
+		<v8u:target>3.0.39.57</v8u:target>
+		<v8u:target>3.0.39.56</v8u:target>
+		<v8u:target>3.0.39.53</v8u:target>
+		<v8u:target>3.0.39.55</v8u:target>
+		<v8u:target>3.0.39.60</v8u:target>
+		<v8u:target>3.0.39.58</v8u:target>
+		<v8u:target>3.0.38.55</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_39_62/1cv8.zip</v8u:file>
+		<v8u:size>53241315</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.39.62</v8u:version>
+		<v8u:target>3.0.38.55</v8u:target>
+		<v8u:target>3.0.39.58</v8u:target>
+		<v8u:target>3.0.39.60</v8u:target>
+		<v8u:target>3.0.39.61</v8u:target>
+		<v8u:target>3.0.39.55</v8u:target>
+		<v8u:target>3.0.39.56</v8u:target>
+		<v8u:target>3.0.39.53</v8u:target>
+		<v8u:target>3.0.39.50</v8u:target>
+		<v8u:target>3.0.39.52</v8u:target>
+		<v8u:target>3.0.39.51</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_39_65/1cv8.zip</v8u:file>
+		<v8u:size>23044174</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.39.65</v8u:version>
+		<v8u:target>3.0.39.51</v8u:target>
+		<v8u:target>3.0.39.52</v8u:target>
+		<v8u:target>3.0.39.53</v8u:target>
+		<v8u:target>3.0.39.55</v8u:target>
+		<v8u:target>3.0.39.61</v8u:target>
+		<v8u:target>3.0.39.56</v8u:target>
+		<v8u:target>3.0.39.60</v8u:target>
+		<v8u:target>3.0.39.64</v8u:target>
+		<v8u:target>3.0.39.63</v8u:target>
+		<v8u:target>3.0.39.62</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_39_66/1cv8.zip</v8u:file>
+		<v8u:size>22902893</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.39.66</v8u:version>
+		<v8u:target>3.0.39.62</v8u:target>
+		<v8u:target>3.0.39.63</v8u:target>
+		<v8u:target>3.0.39.64</v8u:target>
+		<v8u:target>3.0.39.65</v8u:target>
+		<v8u:target>3.0.39.60</v8u:target>
+		<v8u:target>3.0.39.56</v8u:target>
+		<v8u:target>3.0.39.61</v8u:target>
+		<v8u:target>3.0.39.55</v8u:target>
+		<v8u:target>3.0.39.53</v8u:target>
+		<v8u:target>3.0.39.52</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_39_67/1cv8.zip</v8u:file>
+		<v8u:size>23085420</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.39.67</v8u:version>
+		<v8u:target>3.0.39.53</v8u:target>
+		<v8u:target>3.0.39.55</v8u:target>
+		<v8u:target>3.0.39.61</v8u:target>
+		<v8u:target>3.0.39.56</v8u:target>
+		<v8u:target>3.0.39.60</v8u:target>
+		<v8u:target>3.0.39.65</v8u:target>
+		<v8u:target>3.0.39.64</v8u:target>
+		<v8u:target>3.0.39.63</v8u:target>
+		<v8u:target>3.0.39.62</v8u:target>
+		<v8u:target>3.0.39.66</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_40_24/1cv8.zip</v8u:file>
+		<v8u:size>49835174</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.40.24</v8u:version>
+		<v8u:target>3.0.39.66</v8u:target>
+		<v8u:target>3.0.39.67</v8u:target>
+		<v8u:target>3.0.39.62</v8u:target>
+		<v8u:target>3.0.39.63</v8u:target>
+		<v8u:target>3.0.39.64</v8u:target>
+		<v8u:target>3.0.39.65</v8u:target>
+		<v8u:target>3.0.39.61</v8u:target>
+		<v8u:target>3.0.39.60</v8u:target>
+		<v8u:target>3.0.40.22</v8u:target>
+		<v8u:target>3.0.40.23</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_40_26/1cv8.zip</v8u:file>
+		<v8u:size>58621324</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.40.26</v8u:version>
+		<v8u:target>3.0.40.22</v8u:target>
+		<v8u:target>3.0.40.24</v8u:target>
+		<v8u:target>3.0.40.23</v8u:target>
+		<v8u:target>3.0.39.61</v8u:target>
+		<v8u:target>3.0.39.65</v8u:target>
+		<v8u:target>3.0.39.64</v8u:target>
+		<v8u:target>3.0.39.63</v8u:target>
+		<v8u:target>3.0.39.62</v8u:target>
+		<v8u:target>3.0.39.67</v8u:target>
+		<v8u:target>3.0.39.66</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_40_27/1cv8.zip</v8u:file>
+		<v8u:size>216361971</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.40.27</v8u:version>
+		<v8u:target>3.0.39.66</v8u:target>
+		<v8u:target>3.0.39.67</v8u:target>
+		<v8u:target>3.0.39.64</v8u:target>
+		<v8u:target>3.0.39.63</v8u:target>
+		<v8u:target>3.0.39.65</v8u:target>
+		<v8u:target>3.0.39.62</v8u:target>
+		<v8u:target>3.0.40.23</v8u:target>
+		<v8u:target>3.0.40.24</v8u:target>
+		<v8u:target>3.0.40.26</v8u:target>
+		<v8u:target>3.0.40.22</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_40_28/1cv8.zip</v8u:file>
+		<v8u:size>59142686</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.40.28</v8u:version>
+		<v8u:target>3.0.40.22</v8u:target>
+		<v8u:target>3.0.40.26</v8u:target>
+		<v8u:target>3.0.40.27</v8u:target>
+		<v8u:target>3.0.40.23</v8u:target>
+		<v8u:target>3.0.40.24</v8u:target>
+		<v8u:target>3.0.39.62</v8u:target>
+		<v8u:target>3.0.39.66</v8u:target>
+		<v8u:target>3.0.39.64</v8u:target>
+		<v8u:target>3.0.39.65</v8u:target>
+		<v8u:target>3.0.39.67</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_40_30/1cv8.zip</v8u:file>
+		<v8u:size>63000496</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.40.30</v8u:version>
+		<v8u:target>3.0.39.67</v8u:target>
+		<v8u:target>3.0.39.65</v8u:target>
+		<v8u:target>3.0.39.66</v8u:target>
+		<v8u:target>3.0.39.62</v8u:target>
+		<v8u:target>3.0.40.24</v8u:target>
+		<v8u:target>3.0.40.23</v8u:target>
+		<v8u:target>3.0.40.27</v8u:target>
+		<v8u:target>3.0.40.26</v8u:target>
+		<v8u:target>3.0.40.28</v8u:target>
+		<v8u:target>3.0.40.22</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_40_31/1cv8.zip</v8u:file>
+		<v8u:size>63184557</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.40.31</v8u:version>
+		<v8u:target>3.0.40.28</v8u:target>
+		<v8u:target>3.0.40.30</v8u:target>
+		<v8u:target>3.0.40.26</v8u:target>
+		<v8u:target>3.0.40.27</v8u:target>
+		<v8u:target>3.0.40.24</v8u:target>
+		<v8u:target>3.0.39.62</v8u:target>
+		<v8u:target>3.0.39.66</v8u:target>
+		<v8u:target>3.0.39.65</v8u:target>
+		<v8u:target>3.0.39.67</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_40_33/1cv8.zip</v8u:file>
+		<v8u:size>64662539</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.40.33</v8u:version>
+		<v8u:target>3.0.39.67</v8u:target>
+		<v8u:target>3.0.39.65</v8u:target>
+		<v8u:target>3.0.39.66</v8u:target>
+		<v8u:target>3.0.39.62</v8u:target>
+		<v8u:target>3.0.40.24</v8u:target>
+		<v8u:target>3.0.40.27</v8u:target>
+		<v8u:target>3.0.40.26</v8u:target>
+		<v8u:target>3.0.40.28</v8u:target>
+		<v8u:target>3.0.40.31</v8u:target>
+		<v8u:target>3.0.40.30</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_40_34/1cv8.zip</v8u:file>
+		<v8u:size>65259160</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.40.34</v8u:version>
+		<v8u:target>3.0.40.30</v8u:target>
+		<v8u:target>3.0.40.31</v8u:target>
+		<v8u:target>3.0.40.33</v8u:target>
+		<v8u:target>3.0.40.28</v8u:target>
+		<v8u:target>3.0.40.26</v8u:target>
+		<v8u:target>3.0.40.27</v8u:target>
+		<v8u:target>3.0.40.24</v8u:target>
+		<v8u:target>3.0.39.66</v8u:target>
+		<v8u:target>3.0.39.65</v8u:target>
+		<v8u:target>3.0.39.67</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_40_36/1cv8.zip</v8u:file>
+		<v8u:size>65251240</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.40.36</v8u:version>
+		<v8u:target>3.0.39.67</v8u:target>
+		<v8u:target>3.0.39.66</v8u:target>
+		<v8u:target>3.0.40.24</v8u:target>
+		<v8u:target>3.0.40.27</v8u:target>
+		<v8u:target>3.0.40.26</v8u:target>
+		<v8u:target>3.0.40.28</v8u:target>
+		<v8u:target>3.0.40.33</v8u:target>
+		<v8u:target>3.0.40.31</v8u:target>
+		<v8u:target>3.0.40.34</v8u:target>
+		<v8u:target>3.0.40.30</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_40_37/1cv8.zip</v8u:file>
+		<v8u:size>65160128</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.40.37</v8u:version>
+		<v8u:target>3.0.40.30</v8u:target>
+		<v8u:target>3.0.40.31</v8u:target>
+		<v8u:target>3.0.40.33</v8u:target>
+		<v8u:target>3.0.40.34</v8u:target>
+		<v8u:target>3.0.40.36</v8u:target>
+		<v8u:target>3.0.40.28</v8u:target>
+		<v8u:target>3.0.40.27</v8u:target>
+		<v8u:target>3.0.40.26</v8u:target>
+		<v8u:target>3.0.40.24</v8u:target>
+		<v8u:target>3.0.39.67</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_40_38/1cv8.zip</v8u:file>
+		<v8u:size>52260309</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.40.38</v8u:version>
+		<v8u:target>3.0.40.24</v8u:target>
+		<v8u:target>3.0.40.26</v8u:target>
+		<v8u:target>3.0.40.27</v8u:target>
+		<v8u:target>3.0.40.28</v8u:target>
+		<v8u:target>3.0.40.36</v8u:target>
+		<v8u:target>3.0.40.37</v8u:target>
+		<v8u:target>3.0.40.34</v8u:target>
+		<v8u:target>3.0.40.33</v8u:target>
+		<v8u:target>3.0.40.31</v8u:target>
+		<v8u:target>3.0.40.30</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_40_39/1cv8.zip</v8u:file>
+		<v8u:size>43512321</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.40.39</v8u:version>
+		<v8u:target>3.0.40.30</v8u:target>
+		<v8u:target>3.0.40.31</v8u:target>
+		<v8u:target>3.0.40.33</v8u:target>
+		<v8u:target>3.0.40.34</v8u:target>
+		<v8u:target>3.0.40.37</v8u:target>
+		<v8u:target>3.0.40.36</v8u:target>
+		<v8u:target>3.0.40.28</v8u:target>
+		<v8u:target>3.0.40.27</v8u:target>
+		<v8u:target>3.0.40.26</v8u:target>
+		<v8u:target>3.0.40.38</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_40_40/1cv8.zip</v8u:file>
+		<v8u:size>43296862</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.40.40</v8u:version>
+		<v8u:target>3.0.40.38</v8u:target>
+		<v8u:target>3.0.40.39</v8u:target>
+		<v8u:target>3.0.40.27</v8u:target>
+		<v8u:target>3.0.40.33</v8u:target>
+		<v8u:target>3.0.40.30</v8u:target>
+		<v8u:target>3.0.40.36</v8u:target>
+		<v8u:target>3.0.40.37</v8u:target>
+		<v8u:target>3.0.40.34</v8u:target>
+		<v8u:target>3.0.40.31</v8u:target>
+		<v8u:target>3.0.40.28</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_40_41/1cv8.zip</v8u:file>
+		<v8u:size>41272684</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.40.41</v8u:version>
+		<v8u:target>3.0.40.28</v8u:target>
+		<v8u:target>3.0.40.31</v8u:target>
+		<v8u:target>3.0.40.34</v8u:target>
+		<v8u:target>3.0.40.37</v8u:target>
+		<v8u:target>3.0.40.36</v8u:target>
+		<v8u:target>3.0.40.30</v8u:target>
+		<v8u:target>3.0.40.33</v8u:target>
+		<v8u:target>3.0.40.39</v8u:target>
+		<v8u:target>3.0.40.38</v8u:target>
+		<v8u:target>3.0.40.40</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_40_42/1cv8.zip</v8u:file>
+		<v8u:size>22191595</v8u:size>
+		<v8u:version platform="8.3.5.1383">3.0.40.42</v8u:version>
+		<v8u:target>3.0.40.40</v8u:target>
+		<v8u:target>3.0.40.41</v8u:target>
+		<v8u:target>3.0.40.39</v8u:target>
+		<v8u:target>3.0.40.33</v8u:target>
+		<v8u:target>3.0.40.30</v8u:target>
+		<v8u:target>3.0.40.36</v8u:target>
+		<v8u:target>3.0.40.37</v8u:target>
+		<v8u:target>3.0.40.38</v8u:target>
+		<v8u:target>3.0.40.34</v8u:target>
+		<v8u:target>3.0.40.31</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_41_48/1cv8.zip</v8u:file>
+		<v8u:size>83441302</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.41.48</v8u:version>
+		<v8u:target>3.0.41.35</v8u:target>
+		<v8u:target>3.0.41.38</v8u:target>
+		<v8u:target>3.0.40.41</v8u:target>
+		<v8u:target>3.0.40.42</v8u:target>
+		<v8u:target>3.0.41.39</v8u:target>
+		<v8u:target>3.0.41.47</v8u:target>
+		<v8u:target>3.0.41.46</v8u:target>
+		<v8u:target>3.0.41.45</v8u:target>
+		<v8u:target>3.0.41.41</v8u:target>
+		<v8u:target>3.0.41.42</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_41_49/1cv8.zip</v8u:file>
+		<v8u:size>83451085</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.41.49</v8u:version>
+		<v8u:target>3.0.41.42</v8u:target>
+		<v8u:target>3.0.41.39</v8u:target>
+		<v8u:target>3.0.41.41</v8u:target>
+		<v8u:target>3.0.41.45</v8u:target>
+		<v8u:target>3.0.41.46</v8u:target>
+		<v8u:target>3.0.41.47</v8u:target>
+		<v8u:target>3.0.41.48</v8u:target>
+		<v8u:target>3.0.40.42</v8u:target>
+		<v8u:target>3.0.41.38</v8u:target>
+		<v8u:target>3.0.41.35</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_41_51/1cv8.zip</v8u:file>
+		<v8u:size>83120372</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.41.51</v8u:version>
+		<v8u:target>3.0.41.38</v8u:target>
+		<v8u:target>3.0.40.42</v8u:target>
+		<v8u:target>3.0.41.48</v8u:target>
+		<v8u:target>3.0.41.49</v8u:target>
+		<v8u:target>3.0.41.47</v8u:target>
+		<v8u:target>3.0.41.46</v8u:target>
+		<v8u:target>3.0.41.45</v8u:target>
+		<v8u:target>3.0.41.39</v8u:target>
+		<v8u:target>3.0.41.41</v8u:target>
+		<v8u:target>3.0.41.42</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_41_52/1cv8.zip</v8u:file>
+		<v8u:size>83097273</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.41.52</v8u:version>
+		<v8u:target>3.0.41.42</v8u:target>
+		<v8u:target>3.0.41.41</v8u:target>
+		<v8u:target>3.0.41.39</v8u:target>
+		<v8u:target>3.0.41.45</v8u:target>
+		<v8u:target>3.0.41.48</v8u:target>
+		<v8u:target>3.0.41.47</v8u:target>
+		<v8u:target>3.0.41.46</v8u:target>
+		<v8u:target>3.0.41.49</v8u:target>
+		<v8u:target>3.0.41.51</v8u:target>
+		<v8u:target>3.0.40.42</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_41_53/1cv8.zip</v8u:file>
+		<v8u:size>84159672</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.41.53</v8u:version>
+		<v8u:target>3.0.40.42</v8u:target>
+		<v8u:target>3.0.41.51</v8u:target>
+		<v8u:target>3.0.41.49</v8u:target>
+		<v8u:target>3.0.41.52</v8u:target>
+		<v8u:target>3.0.41.46</v8u:target>
+		<v8u:target>3.0.41.47</v8u:target>
+		<v8u:target>3.0.41.42</v8u:target>
+		<v8u:target>3.0.41.45</v8u:target>
+		<v8u:target>3.0.41.48</v8u:target>
+		<v8u:target>3.0.41.41</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_41_54/1cv8.zip</v8u:file>
+		<v8u:size>84676556</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.41.54</v8u:version>
+		<v8u:target>3.0.41.45</v8u:target>
+		<v8u:target>3.0.41.42</v8u:target>
+		<v8u:target>3.0.41.47</v8u:target>
+		<v8u:target>3.0.41.46</v8u:target>
+		<v8u:target>3.0.41.52</v8u:target>
+		<v8u:target>3.0.41.51</v8u:target>
+		<v8u:target>3.0.41.49</v8u:target>
+		<v8u:target>3.0.41.48</v8u:target>
+		<v8u:target>3.0.41.53</v8u:target>
+		<v8u:target>3.0.40.42</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_41_55/1cv8.zip</v8u:file>
+		<v8u:size>93025256</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.41.55</v8u:version>
+		<v8u:target>3.0.40.42</v8u:target>
+		<v8u:target>3.0.41.54</v8u:target>
+		<v8u:target>3.0.41.53</v8u:target>
+		<v8u:target>3.0.41.48</v8u:target>
+		<v8u:target>3.0.41.51</v8u:target>
+		<v8u:target>3.0.41.49</v8u:target>
+		<v8u:target>3.0.41.52</v8u:target>
+		<v8u:target>3.0.41.46</v8u:target>
+		<v8u:target>3.0.41.47</v8u:target>
+		<v8u:target>3.0.41.45</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_41_56/1cv8.zip</v8u:file>
+		<v8u:size>93044573</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.41.56</v8u:version>
+		<v8u:target>3.0.41.46</v8u:target>
+		<v8u:target>3.0.41.52</v8u:target>
+		<v8u:target>3.0.41.49</v8u:target>
+		<v8u:target>3.0.41.51</v8u:target>
+		<v8u:target>3.0.41.48</v8u:target>
+		<v8u:target>3.0.41.47</v8u:target>
+		<v8u:target>3.0.41.53</v8u:target>
+		<v8u:target>3.0.41.54</v8u:target>
+		<v8u:target>3.0.41.55</v8u:target>
+		<v8u:target>3.0.40.42</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_41_57/1cv8.zip</v8u:file>
+		<v8u:size>93187147</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.41.57</v8u:version>
+		<v8u:target>3.0.40.42</v8u:target>
+		<v8u:target>3.0.41.55</v8u:target>
+		<v8u:target>3.0.41.56</v8u:target>
+		<v8u:target>3.0.41.54</v8u:target>
+		<v8u:target>3.0.41.53</v8u:target>
+		<v8u:target>3.0.41.47</v8u:target>
+		<v8u:target>3.0.41.48</v8u:target>
+		<v8u:target>3.0.41.51</v8u:target>
+		<v8u:target>3.0.41.49</v8u:target>
+		<v8u:target>3.0.41.52</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_41_59/1cv8.zip</v8u:file>
+		<v8u:size>93737423</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.41.59</v8u:version>
+		<v8u:target>3.0.41.52</v8u:target>
+		<v8u:target>3.0.41.49</v8u:target>
+		<v8u:target>3.0.41.51</v8u:target>
+		<v8u:target>3.0.41.48</v8u:target>
+		<v8u:target>3.0.41.53</v8u:target>
+		<v8u:target>3.0.41.54</v8u:target>
+		<v8u:target>3.0.41.55</v8u:target>
+		<v8u:target>3.0.41.57</v8u:target>
+		<v8u:target>3.0.41.56</v8u:target>
+		<v8u:target>3.0.40.42</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_41_60/1cv8.zip</v8u:file>
+		<v8u:size>34541532</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.41.60</v8u:version>
+		<v8u:target>3.0.41.56</v8u:target>
+		<v8u:target>3.0.41.57</v8u:target>
+		<v8u:target>3.0.41.55</v8u:target>
+		<v8u:target>3.0.41.54</v8u:target>
+		<v8u:target>3.0.41.53</v8u:target>
+		<v8u:target>3.0.41.59</v8u:target>
+		<v8u:target>3.0.41.48</v8u:target>
+		<v8u:target>3.0.41.49</v8u:target>
+		<v8u:target>3.0.41.51</v8u:target>
+		<v8u:target>3.0.41.52</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_41_63/1cv8.zip</v8u:file>
+		<v8u:size>52082873</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.41.63</v8u:version>
+		<v8u:target>3.0.41.52</v8u:target>
+		<v8u:target>3.0.41.49</v8u:target>
+		<v8u:target>3.0.41.51</v8u:target>
+		<v8u:target>3.0.41.60</v8u:target>
+		<v8u:target>3.0.41.53</v8u:target>
+		<v8u:target>3.0.41.54</v8u:target>
+		<v8u:target>3.0.41.57</v8u:target>
+		<v8u:target>3.0.41.59</v8u:target>
+		<v8u:target>3.0.41.56</v8u:target>
+		<v8u:target>3.0.41.55</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_41_64/1cv8.zip</v8u:file>
+		<v8u:size>51908762</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.41.64</v8u:version>
+		<v8u:target>3.0.41.55</v8u:target>
+		<v8u:target>3.0.41.56</v8u:target>
+		<v8u:target>3.0.41.59</v8u:target>
+		<v8u:target>3.0.41.57</v8u:target>
+		<v8u:target>3.0.41.54</v8u:target>
+		<v8u:target>3.0.41.53</v8u:target>
+		<v8u:target>3.0.41.60</v8u:target>
+		<v8u:target>3.0.41.63</v8u:target>
+		<v8u:target>3.0.41.51</v8u:target>
+		<v8u:target>3.0.41.52</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_42_33/1cv8.zip</v8u:file>
+		<v8u:size>65927329</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.42.33</v8u:version>
+		<v8u:target>3.0.41.63</v8u:target>
+		<v8u:target>3.0.41.60</v8u:target>
+		<v8u:target>3.0.41.64</v8u:target>
+		<v8u:target>3.0.41.59</v8u:target>
+		<v8u:target>3.0.42.29</v8u:target>
+		<v8u:target>3.0.42.31</v8u:target>
+		<v8u:target>3.0.42.26</v8u:target>
+		<v8u:target>3.0.42.20</v8u:target>
+		<v8u:target>3.0.42.25</v8u:target>
+		<v8u:target>3.0.42.32</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_42_36/1cv8.zip</v8u:file>
+		<v8u:size>66800996</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.42.36</v8u:version>
+		<v8u:target>3.0.42.32</v8u:target>
+		<v8u:target>3.0.42.33</v8u:target>
+		<v8u:target>3.0.42.25</v8u:target>
+		<v8u:target>3.0.42.20</v8u:target>
+		<v8u:target>3.0.42.26</v8u:target>
+		<v8u:target>3.0.42.31</v8u:target>
+		<v8u:target>3.0.42.29</v8u:target>
+		<v8u:target>3.0.41.64</v8u:target>
+		<v8u:target>3.0.41.60</v8u:target>
+		<v8u:target>3.0.41.63</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_42_37/1cv8.zip</v8u:file>
+		<v8u:size>53786976</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.42.37</v8u:version>
+		<v8u:target>3.0.41.63</v8u:target>
+		<v8u:target>3.0.41.64</v8u:target>
+		<v8u:target>3.0.42.29</v8u:target>
+		<v8u:target>3.0.42.25</v8u:target>
+		<v8u:target>3.0.42.26</v8u:target>
+		<v8u:target>3.0.42.20</v8u:target>
+		<v8u:target>3.0.42.33</v8u:target>
+		<v8u:target>3.0.42.32</v8u:target>
+		<v8u:target>3.0.42.36</v8u:target>
+		<v8u:target>3.0.42.31</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_42_45/1cv8.zip</v8u:file>
+		<v8u:size>58541552</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.42.45</v8u:version>
+		<v8u:target>3.0.42.31</v8u:target>
+		<v8u:target>3.0.42.36</v8u:target>
+		<v8u:target>3.0.42.32</v8u:target>
+		<v8u:target>3.0.42.33</v8u:target>
+		<v8u:target>3.0.42.37</v8u:target>
+		<v8u:target>3.0.42.20</v8u:target>
+		<v8u:target>3.0.42.26</v8u:target>
+		<v8u:target>3.0.42.25</v8u:target>
+		<v8u:target>3.0.42.29</v8u:target>
+		<v8u:target>3.0.41.64</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_42_46/1cv8.zip</v8u:file>
+		<v8u:size>69534409</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.42.46</v8u:version>
+		<v8u:target>3.0.41.64</v8u:target>
+		<v8u:target>3.0.41.63</v8u:target>
+		<v8u:target>3.0.41.60</v8u:target>
+		<v8u:target>3.0.41.59</v8u:target>
+		<v8u:target>3.0.41.57</v8u:target>
+		<v8u:target>3.0.41.56</v8u:target>
+		<v8u:target>3.0.42.37</v8u:target>
+		<v8u:target>3.0.42.33</v8u:target>
+		<v8u:target>3.0.42.45</v8u:target>
+		<v8u:target>3.0.42.36</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_42_54/1cv8.zip</v8u:file>
+		<v8u:size>69549470</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.42.54</v8u:version>
+		<v8u:target>3.0.42.45</v8u:target>
+		<v8u:target>3.0.42.33</v8u:target>
+		<v8u:target>3.0.42.37</v8u:target>
+		<v8u:target>3.0.42.36</v8u:target>
+		<v8u:target>3.0.42.46</v8u:target>
+		<v8u:target>3.0.41.57</v8u:target>
+		<v8u:target>3.0.41.59</v8u:target>
+		<v8u:target>3.0.41.60</v8u:target>
+		<v8u:target>3.0.41.63</v8u:target>
+		<v8u:target>3.0.41.64</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_42_63/1cv8.zip</v8u:file>
+		<v8u:size>69854521</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.42.63</v8u:version>
+		<v8u:target>3.0.41.64</v8u:target>
+		<v8u:target>3.0.41.63</v8u:target>
+		<v8u:target>3.0.41.60</v8u:target>
+		<v8u:target>3.0.41.59</v8u:target>
+		<v8u:target>3.0.42.36</v8u:target>
+		<v8u:target>3.0.42.37</v8u:target>
+		<v8u:target>3.0.42.33</v8u:target>
+		<v8u:target>3.0.42.45</v8u:target>
+		<v8u:target>3.0.42.54</v8u:target>
+		<v8u:target>3.0.42.46</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_42_72/1cv8.zip</v8u:file>
+		<v8u:size>62395544</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.42.72</v8u:version>
+		<v8u:target>3.0.42.46</v8u:target>
+		<v8u:target>3.0.42.54</v8u:target>
+		<v8u:target>3.0.42.63</v8u:target>
+		<v8u:target>3.0.42.33</v8u:target>
+		<v8u:target>3.0.42.37</v8u:target>
+		<v8u:target>3.0.42.36</v8u:target>
+		<v8u:target>3.0.42.45</v8u:target>
+		<v8u:target>3.0.41.60</v8u:target>
+		<v8u:target>3.0.41.63</v8u:target>
+		<v8u:target>3.0.41.64</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_42_73/1cv8.zip</v8u:file>
+		<v8u:size>48958849</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.42.73</v8u:version>
+		<v8u:target>3.0.41.64</v8u:target>
+		<v8u:target>3.0.41.63</v8u:target>
+		<v8u:target>3.0.42.45</v8u:target>
+		<v8u:target>3.0.42.36</v8u:target>
+		<v8u:target>3.0.42.37</v8u:target>
+		<v8u:target>3.0.42.33</v8u:target>
+		<v8u:target>3.0.42.63</v8u:target>
+		<v8u:target>3.0.42.72</v8u:target>
+		<v8u:target>3.0.42.54</v8u:target>
+		<v8u:target>3.0.42.46</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_42_84/1cv8.zip</v8u:file>
+		<v8u:size>38430026</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.42.84</v8u:version>
+		<v8u:target>3.0.42.46</v8u:target>
+		<v8u:target>3.0.42.54</v8u:target>
+		<v8u:target>3.0.42.72</v8u:target>
+		<v8u:target>3.0.42.73</v8u:target>
+		<v8u:target>3.0.42.63</v8u:target>
+		<v8u:target>3.0.42.33</v8u:target>
+		<v8u:target>3.0.42.36</v8u:target>
+		<v8u:target>3.0.42.45</v8u:target>
+		<v8u:target>3.0.42.37</v8u:target>
+		<v8u:target>3.0.42.83</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_42_85/1cv8.zip</v8u:file>
+		<v8u:size>36783659</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.42.85</v8u:version>
+		<v8u:target>3.0.42.84</v8u:target>
+		<v8u:target>3.0.42.83</v8u:target>
+		<v8u:target>3.0.42.37</v8u:target>
+		<v8u:target>3.0.42.45</v8u:target>
+		<v8u:target>3.0.42.36</v8u:target>
+		<v8u:target>3.0.42.54</v8u:target>
+		<v8u:target>3.0.42.73</v8u:target>
+		<v8u:target>3.0.42.63</v8u:target>
+		<v8u:target>3.0.42.72</v8u:target>
+		<v8u:target>3.0.42.46</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_42_87/1cv8.zip</v8u:file>
+		<v8u:size>43600459</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.42.87</v8u:version>
+		<v8u:target>3.0.42.46</v8u:target>
+		<v8u:target>3.0.42.72</v8u:target>
+		<v8u:target>3.0.42.63</v8u:target>
+		<v8u:target>3.0.42.54</v8u:target>
+		<v8u:target>3.0.42.45</v8u:target>
+		<v8u:target>3.0.42.37</v8u:target>
+		<v8u:target>3.0.42.83</v8u:target>
+		<v8u:target>3.0.42.84</v8u:target>
+		<v8u:target>3.0.42.73</v8u:target>
+		<v8u:target>3.0.42.85</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_42_88/1cv8.zip</v8u:file>
+		<v8u:size>78618005</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.42.88</v8u:version>
+		<v8u:target>3.0.42.85</v8u:target>
+		<v8u:target>3.0.42.87</v8u:target>
+		<v8u:target>3.0.42.73</v8u:target>
+		<v8u:target>3.0.42.72</v8u:target>
+		<v8u:target>3.0.42.84</v8u:target>
+		<v8u:target>3.0.42.83</v8u:target>
+		<v8u:target>3.0.42.54</v8u:target>
+		<v8u:target>3.0.42.46</v8u:target>
+		<v8u:target>3.0.42.63</v8u:target>
+		<v8u:target>3.0.41.57</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_42_89/1cv8.zip</v8u:file>
+		<v8u:size>37517390</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.42.89</v8u:version>
+		<v8u:target>3.0.42.46</v8u:target>
+		<v8u:target>3.0.42.54</v8u:target>
+		<v8u:target>3.0.42.63</v8u:target>
+		<v8u:target>3.0.42.83</v8u:target>
+		<v8u:target>3.0.42.84</v8u:target>
+		<v8u:target>3.0.42.72</v8u:target>
+		<v8u:target>3.0.42.73</v8u:target>
+		<v8u:target>3.0.42.87</v8u:target>
+		<v8u:target>3.0.42.85</v8u:target>
+		<v8u:target>3.0.42.88</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_42_90/1cv8.zip</v8u:file>
+		<v8u:size>36237726</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.42.90</v8u:version>
+		<v8u:target>3.0.42.88</v8u:target>
+		<v8u:target>3.0.42.89</v8u:target>
+		<v8u:target>3.0.42.85</v8u:target>
+		<v8u:target>3.0.42.87</v8u:target>
+		<v8u:target>3.0.42.73</v8u:target>
+		<v8u:target>3.0.42.72</v8u:target>
+		<v8u:target>3.0.42.84</v8u:target>
+		<v8u:target>3.0.42.83</v8u:target>
+		<v8u:target>3.0.42.63</v8u:target>
+		<v8u:target>3.0.42.54</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_42_91/1cv8.zip</v8u:file>
+		<v8u:size>33985096</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.42.91</v8u:version>
+		<v8u:target>3.0.42.63</v8u:target>
+		<v8u:target>3.0.42.83</v8u:target>
+		<v8u:target>3.0.42.84</v8u:target>
+		<v8u:target>3.0.42.72</v8u:target>
+		<v8u:target>3.0.42.73</v8u:target>
+		<v8u:target>3.0.42.87</v8u:target>
+		<v8u:target>3.0.42.89</v8u:target>
+		<v8u:target>3.0.42.85</v8u:target>
+		<v8u:target>3.0.42.90</v8u:target>
+		<v8u:target>3.0.42.88</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_29/1cv8.zip</v8u:file>
+		<v8u:size>53083249</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.29</v8u:version>
+		<v8u:target>3.0.43.19</v8u:target>
+		<v8u:target>3.0.43.21</v8u:target>
+		<v8u:target>3.0.43.28</v8u:target>
+		<v8u:target>3.0.42.91</v8u:target>
+		<v8u:target>3.0.42.88</v8u:target>
+		<v8u:target>3.0.42.90</v8u:target>
+		<v8u:target>3.0.42.89</v8u:target>
+		<v8u:target>3.0.42.87</v8u:target>
+		<v8u:target>3.0.42.84</v8u:target>
+		<v8u:target>3.0.42.85</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_32/1cv8.zip</v8u:file>
+		<v8u:size>56833918</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.32</v8u:version>
+		<v8u:target>3.0.42.85</v8u:target>
+		<v8u:target>3.0.42.84</v8u:target>
+		<v8u:target>3.0.42.87</v8u:target>
+		<v8u:target>3.0.42.90</v8u:target>
+		<v8u:target>3.0.42.88</v8u:target>
+		<v8u:target>3.0.42.89</v8u:target>
+		<v8u:target>3.0.42.91</v8u:target>
+		<v8u:target>3.0.43.28</v8u:target>
+		<v8u:target>3.0.43.29</v8u:target>
+		<v8u:target>3.0.43.21</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_50/1cv8.zip</v8u:file>
+		<v8u:size>58269696</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.50</v8u:version>
+		<v8u:target>3.0.43.29</v8u:target>
+		<v8u:target>3.0.43.28</v8u:target>
+		<v8u:target>3.0.43.32</v8u:target>
+		<v8u:target>3.0.42.91</v8u:target>
+		<v8u:target>3.0.42.89</v8u:target>
+		<v8u:target>3.0.42.90</v8u:target>
+		<v8u:target>3.0.42.88</v8u:target>
+		<v8u:target>3.0.42.87</v8u:target>
+		<v8u:target>3.0.42.84</v8u:target>
+		<v8u:target>3.0.42.85</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_51/1cv8.zip</v8u:file>
+		<v8u:size>58227090</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.51</v8u:version>
+		<v8u:target>3.0.42.85</v8u:target>
+		<v8u:target>3.0.42.87</v8u:target>
+		<v8u:target>3.0.42.88</v8u:target>
+		<v8u:target>3.0.42.90</v8u:target>
+		<v8u:target>3.0.42.89</v8u:target>
+		<v8u:target>3.0.42.91</v8u:target>
+		<v8u:target>3.0.43.32</v8u:target>
+		<v8u:target>3.0.43.50</v8u:target>
+		<v8u:target>3.0.43.28</v8u:target>
+		<v8u:target>3.0.43.29</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_52/1cv8.zip</v8u:file>
+		<v8u:size>59323561</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.52</v8u:version>
+		<v8u:target>3.0.43.29</v8u:target>
+		<v8u:target>3.0.43.50</v8u:target>
+		<v8u:target>3.0.43.32</v8u:target>
+		<v8u:target>3.0.43.51</v8u:target>
+		<v8u:target>3.0.42.91</v8u:target>
+		<v8u:target>3.0.42.90</v8u:target>
+		<v8u:target>3.0.42.88</v8u:target>
+		<v8u:target>3.0.42.89</v8u:target>
+		<v8u:target>3.0.42.87</v8u:target>
+		<v8u:target>3.0.42.85</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_74/1cv8.zip</v8u:file>
+		<v8u:size>65546490</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.74</v8u:version>
+		<v8u:target>3.0.42.89</v8u:target>
+		<v8u:target>3.0.42.90</v8u:target>
+		<v8u:target>3.0.42.91</v8u:target>
+		<v8u:target>3.0.43.51</v8u:target>
+		<v8u:target>3.0.43.52</v8u:target>
+		<v8u:target>3.0.43.62</v8u:target>
+		<v8u:target>3.0.43.63</v8u:target>
+		<v8u:target>3.0.43.32</v8u:target>
+		<v8u:target>3.0.43.50</v8u:target>
+		<v8u:target>3.0.43.29</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_75/1cv8.zip</v8u:file>
+		<v8u:size>66437616</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.75</v8u:version>
+		<v8u:target>3.0.43.50</v8u:target>
+		<v8u:target>3.0.43.32</v8u:target>
+		<v8u:target>3.0.43.29</v8u:target>
+		<v8u:target>3.0.43.63</v8u:target>
+		<v8u:target>3.0.43.52</v8u:target>
+		<v8u:target>3.0.43.51</v8u:target>
+		<v8u:target>3.0.43.74</v8u:target>
+		<v8u:target>3.0.42.91</v8u:target>
+		<v8u:target>3.0.42.90</v8u:target>
+		<v8u:target>3.0.42.89</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_88/1cv8.zip</v8u:file>
+		<v8u:size>70277370</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.88</v8u:version>
+		<v8u:target>3.0.42.90</v8u:target>
+		<v8u:target>3.0.42.91</v8u:target>
+		<v8u:target>3.0.43.74</v8u:target>
+		<v8u:target>3.0.43.75</v8u:target>
+		<v8u:target>3.0.43.51</v8u:target>
+		<v8u:target>3.0.43.52</v8u:target>
+		<v8u:target>3.0.43.63</v8u:target>
+		<v8u:target>3.0.43.29</v8u:target>
+		<v8u:target>3.0.43.32</v8u:target>
+		<v8u:target>3.0.43.50</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_89/1cv8.zip</v8u:file>
+		<v8u:size>70283911</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.89</v8u:version>
+		<v8u:target>3.0.43.50</v8u:target>
+		<v8u:target>3.0.43.29</v8u:target>
+		<v8u:target>3.0.43.32</v8u:target>
+		<v8u:target>3.0.43.63</v8u:target>
+		<v8u:target>3.0.43.51</v8u:target>
+		<v8u:target>3.0.43.75</v8u:target>
+		<v8u:target>3.0.43.52</v8u:target>
+		<v8u:target>3.0.43.74</v8u:target>
+		<v8u:target>3.0.43.88</v8u:target>
+		<v8u:target>3.0.42.91</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_100/1cv8.zip</v8u:file>
+		<v8u:size>85069963</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.100</v8u:version>
+		<v8u:target>3.0.42.91</v8u:target>
+		<v8u:target>3.0.43.89</v8u:target>
+		<v8u:target>3.0.43.88</v8u:target>
+		<v8u:target>3.0.43.75</v8u:target>
+		<v8u:target>3.0.43.74</v8u:target>
+		<v8u:target>3.0.43.52</v8u:target>
+		<v8u:target>3.0.43.32</v8u:target>
+		<v8u:target>3.0.43.29</v8u:target>
+		<v8u:target>3.0.43.50</v8u:target>
+		<v8u:target>3.0.43.51</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_101/1cv8.zip</v8u:file>
+		<v8u:size>68932643</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.101</v8u:version>
+		<v8u:target>3.0.43.50</v8u:target>
+		<v8u:target>3.0.43.32</v8u:target>
+		<v8u:target>3.0.43.29</v8u:target>
+		<v8u:target>3.0.43.52</v8u:target>
+		<v8u:target>3.0.43.51</v8u:target>
+		<v8u:target>3.0.43.74</v8u:target>
+		<v8u:target>3.0.43.75</v8u:target>
+		<v8u:target>3.0.43.88</v8u:target>
+		<v8u:target>3.0.43.89</v8u:target>
+		<v8u:target>3.0.43.100</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_103/1cv8.zip</v8u:file>
+		<v8u:size>66073648</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.103</v8u:version>
+		<v8u:target>3.0.43.100</v8u:target>
+		<v8u:target>3.0.43.89</v8u:target>
+		<v8u:target>3.0.43.88</v8u:target>
+		<v8u:target>3.0.43.74</v8u:target>
+		<v8u:target>3.0.43.75</v8u:target>
+		<v8u:target>3.0.43.51</v8u:target>
+		<v8u:target>3.0.43.52</v8u:target>
+		<v8u:target>3.0.43.32</v8u:target>
+		<v8u:target>3.0.43.50</v8u:target>
+		<v8u:target>3.0.43.101</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_116/1cv8.zip</v8u:file>
+		<v8u:size>66410191</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.116</v8u:version>
+		<v8u:target>3.0.43.101</v8u:target>
+		<v8u:target>3.0.43.103</v8u:target>
+		<v8u:target>3.0.43.50</v8u:target>
+		<v8u:target>3.0.43.51</v8u:target>
+		<v8u:target>3.0.43.52</v8u:target>
+		<v8u:target>3.0.43.75</v8u:target>
+		<v8u:target>3.0.43.74</v8u:target>
+		<v8u:target>3.0.43.88</v8u:target>
+		<v8u:target>3.0.43.89</v8u:target>
+		<v8u:target>3.0.43.100</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_123/1cv8.zip</v8u:file>
+		<v8u:size>68945859</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.123</v8u:version>
+		<v8u:target>3.0.43.100</v8u:target>
+		<v8u:target>3.0.43.89</v8u:target>
+		<v8u:target>3.0.43.88</v8u:target>
+		<v8u:target>3.0.43.74</v8u:target>
+		<v8u:target>3.0.43.75</v8u:target>
+		<v8u:target>3.0.43.52</v8u:target>
+		<v8u:target>3.0.43.51</v8u:target>
+		<v8u:target>3.0.43.101</v8u:target>
+		<v8u:target>3.0.43.103</v8u:target>
+		<v8u:target>3.0.43.116</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_124/1cv8.zip</v8u:file>
+		<v8u:size>70081869</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.124</v8u:version>
+		<v8u:target>3.0.43.116</v8u:target>
+		<v8u:target>3.0.43.123</v8u:target>
+		<v8u:target>3.0.43.103</v8u:target>
+		<v8u:target>3.0.43.101</v8u:target>
+		<v8u:target>3.0.43.52</v8u:target>
+		<v8u:target>3.0.43.75</v8u:target>
+		<v8u:target>3.0.43.74</v8u:target>
+		<v8u:target>3.0.43.88</v8u:target>
+		<v8u:target>3.0.43.89</v8u:target>
+		<v8u:target>3.0.43.100</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_136/1cv8.zip</v8u:file>
+		<v8u:size>58520191</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.136</v8u:version>
+		<v8u:target>3.0.43.100</v8u:target>
+		<v8u:target>3.0.43.89</v8u:target>
+		<v8u:target>3.0.43.88</v8u:target>
+		<v8u:target>3.0.43.75</v8u:target>
+		<v8u:target>3.0.43.74</v8u:target>
+		<v8u:target>3.0.43.101</v8u:target>
+		<v8u:target>3.0.43.103</v8u:target>
+		<v8u:target>3.0.43.123</v8u:target>
+		<v8u:target>3.0.43.116</v8u:target>
+		<v8u:target>3.0.43.124</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_137/1cv8.zip</v8u:file>
+		<v8u:size>57727693</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.137</v8u:version>
+		<v8u:target>3.0.43.116</v8u:target>
+		<v8u:target>3.0.43.123</v8u:target>
+		<v8u:target>3.0.43.136</v8u:target>
+		<v8u:target>3.0.43.124</v8u:target>
+		<v8u:target>3.0.43.103</v8u:target>
+		<v8u:target>3.0.43.101</v8u:target>
+		<v8u:target>3.0.43.100</v8u:target>
+		<v8u:target>3.0.43.75</v8u:target>
+		<v8u:target>3.0.43.88</v8u:target>
+		<v8u:target>3.0.43.89</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_147/1cv8.zip</v8u:file>
+		<v8u:size>66091313</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.147</v8u:version>
+		<v8u:target>3.0.43.88</v8u:target>
+		<v8u:target>3.0.43.89</v8u:target>
+		<v8u:target>3.0.43.137</v8u:target>
+		<v8u:target>3.0.43.100</v8u:target>
+		<v8u:target>3.0.43.101</v8u:target>
+		<v8u:target>3.0.43.103</v8u:target>
+		<v8u:target>3.0.43.124</v8u:target>
+		<v8u:target>3.0.43.136</v8u:target>
+		<v8u:target>3.0.43.123</v8u:target>
+		<v8u:target>3.0.43.116</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_148/1cv8.zip</v8u:file>
+		<v8u:size>66100013</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.148</v8u:version>
+		<v8u:target>3.0.43.100</v8u:target>
+		<v8u:target>3.0.43.103</v8u:target>
+		<v8u:target>3.0.43.101</v8u:target>
+		<v8u:target>3.0.43.116</v8u:target>
+		<v8u:target>3.0.43.123</v8u:target>
+		<v8u:target>3.0.43.136</v8u:target>
+		<v8u:target>3.0.43.89</v8u:target>
+		<v8u:target>3.0.43.137</v8u:target>
+		<v8u:target>3.0.43.124</v8u:target>
+		<v8u:target>3.0.43.147</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_152/1cv8.zip</v8u:file>
+		<v8u:size>67929418</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.152</v8u:version>
+		<v8u:target>3.0.43.147</v8u:target>
+		<v8u:target>3.0.43.124</v8u:target>
+		<v8u:target>3.0.43.137</v8u:target>
+		<v8u:target>3.0.43.148</v8u:target>
+		<v8u:target>3.0.43.89</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_155/1cv8.zip</v8u:file>
+		<v8u:size>68713396</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.155</v8u:version>
+		<v8u:target>3.0.43.89</v8u:target>
+		<v8u:target>3.0.43.148</v8u:target>
+		<v8u:target>3.0.43.152</v8u:target>
+		<v8u:target>3.0.43.147</v8u:target>
+		<v8u:target>3.0.43.124</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_173/1cv8.zip</v8u:file>
+		<v8u:size>77320937</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.173</v8u:version>
+		<v8u:target>3.0.43.124</v8u:target>
+		<v8u:target>3.0.43.155</v8u:target>
+		<v8u:target>3.0.43.152</v8u:target>
+		<v8u:target>3.0.43.162</v8u:target>
+		<v8u:target>3.0.43.89</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_174/1cv8.zip</v8u:file>
+		<v8u:size>77780940</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.174</v8u:version>
+		<v8u:target>3.0.43.89</v8u:target>
+		<v8u:target>3.0.43.162</v8u:target>
+		<v8u:target>3.0.43.155</v8u:target>
+		<v8u:target>3.0.43.173</v8u:target>
+		<v8u:target>3.0.43.124</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_187/1cv8.zip</v8u:file>
+		<v8u:size>75851899</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.187</v8u:version>
+		<v8u:target>3.0.43.124</v8u:target>
+		<v8u:target>3.0.43.173</v8u:target>
+		<v8u:target>3.0.43.174</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_194/1cv8.zip</v8u:file>
+		<v8u:size>76426365</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.194</v8u:version>
+		<v8u:target>3.0.43.187</v8u:target>
+		<v8u:target>3.0.43.174</v8u:target>
+		<v8u:target>3.0.43.173</v8u:target>
+		<v8u:target>3.0.43.124</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_195/1cv8.zip</v8u:file>
+		<v8u:size>57649473</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.195</v8u:version>
+		<v8u:target>3.0.43.155</v8u:target>
+		<v8u:target>3.0.43.162</v8u:target>
+		<v8u:target>3.0.43.152</v8u:target>
+		<v8u:target>3.0.43.173</v8u:target>
+		<v8u:target>3.0.43.174</v8u:target>
+		<v8u:target>3.0.43.187</v8u:target>
+		<v8u:target>3.0.43.194</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_206/1cv8.zip</v8u:file>
+		<v8u:size>60298102</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.206</v8u:version>
+		<v8u:target>3.0.43.194</v8u:target>
+		<v8u:target>3.0.43.187</v8u:target>
+		<v8u:target>3.0.43.195</v8u:target>
+		<v8u:target>3.0.43.162</v8u:target>
+		<v8u:target>3.0.43.174</v8u:target>
+		<v8u:target>3.0.43.173</v8u:target>
+		<v8u:target>3.0.43.155</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_207/1cv8.zip</v8u:file>
+		<v8u:size>50703021</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.207</v8u:version>
+		<v8u:target>3.0.43.174</v8u:target>
+		<v8u:target>3.0.43.162</v8u:target>
+		<v8u:target>3.0.43.173</v8u:target>
+		<v8u:target>3.0.43.195</v8u:target>
+		<v8u:target>3.0.43.206</v8u:target>
+		<v8u:target>3.0.43.187</v8u:target>
+		<v8u:target>3.0.43.194</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_208/1cv8.zip</v8u:file>
+		<v8u:size>48964546</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.208</v8u:version>
+		<v8u:target>3.0.43.194</v8u:target>
+		<v8u:target>3.0.43.187</v8u:target>
+		<v8u:target>3.0.43.206</v8u:target>
+		<v8u:target>3.0.43.195</v8u:target>
+		<v8u:target>3.0.43.207</v8u:target>
+		<v8u:target>3.0.43.173</v8u:target>
+		<v8u:target>3.0.43.174</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_213/1cv8.zip</v8u:file>
+		<v8u:size>49629325</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.213</v8u:version>
+		<v8u:target>3.0.43.174</v8u:target>
+		<v8u:target>3.0.43.207</v8u:target>
+		<v8u:target>3.0.43.208</v8u:target>
+		<v8u:target>3.0.43.195</v8u:target>
+		<v8u:target>3.0.43.206</v8u:target>
+		<v8u:target>3.0.43.187</v8u:target>
+		<v8u:target>3.0.43.194</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_214/1cv8.zip</v8u:file>
+		<v8u:size>27812354</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.214</v8u:version>
+		<v8u:target>3.0.43.194</v8u:target>
+		<v8u:target>3.0.43.187</v8u:target>
+		<v8u:target>3.0.43.206</v8u:target>
+		<v8u:target>3.0.43.208</v8u:target>
+		<v8u:target>3.0.43.207</v8u:target>
+		<v8u:target>3.0.43.195</v8u:target>
+		<v8u:target>3.0.43.213</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_215/1cv8.zip</v8u:file>
+		<v8u:size>26242928</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.215</v8u:version>
+		<v8u:target>3.0.43.213</v8u:target>
+		<v8u:target>3.0.43.214</v8u:target>
+		<v8u:target>3.0.43.195</v8u:target>
+		<v8u:target>3.0.43.207</v8u:target>
+		<v8u:target>3.0.43.206</v8u:target>
+		<v8u:target>3.0.43.208</v8u:target>
+		<v8u:target>3.0.43.194</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_223/1cv8.zip</v8u:file>
+		<v8u:size>31027242</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.223</v8u:version>
+		<v8u:target>3.0.43.195</v8u:target>
+		<v8u:target>3.0.43.208</v8u:target>
+		<v8u:target>3.0.43.207</v8u:target>
+		<v8u:target>3.0.43.206</v8u:target>
+		<v8u:target>3.0.43.214</v8u:target>
+		<v8u:target>3.0.43.215</v8u:target>
+		<v8u:target>3.0.43.213</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_235/1cv8.zip</v8u:file>
+		<v8u:size>31274541</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.235</v8u:version>
+		<v8u:target>3.0.43.213</v8u:target>
+		<v8u:target>3.0.43.214</v8u:target>
+		<v8u:target>3.0.43.215</v8u:target>
+		<v8u:target>3.0.43.223</v8u:target>
+		<v8u:target>3.0.43.206</v8u:target>
+		<v8u:target>3.0.43.207</v8u:target>
+		<v8u:target>3.0.43.208</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_236/1cv8.zip</v8u:file>
+		<v8u:size>33021441</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.236</v8u:version>
+		<v8u:target>3.0.43.207</v8u:target>
+		<v8u:target>3.0.43.206</v8u:target>
+		<v8u:target>3.0.43.223</v8u:target>
+		<v8u:target>3.0.43.213</v8u:target>
+		<v8u:target>3.0.43.215</v8u:target>
+		<v8u:target>3.0.43.214</v8u:target>
+		<v8u:target>3.0.43.235</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_239/1cv8.zip</v8u:file>
+		<v8u:size>33545582</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.239</v8u:version>
+		<v8u:target>3.0.43.215</v8u:target>
+		<v8u:target>3.0.43.223</v8u:target>
+		<v8u:target>3.0.43.236</v8u:target>
+		<v8u:target>3.0.43.235</v8u:target>
+		<v8u:target>3.0.43.214</v8u:target>
+		<v8u:target>3.0.43.206</v8u:target>
+		<v8u:target>3.0.43.207</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_240/1cv8.zip</v8u:file>
+		<v8u:size>30407360</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.240</v8u:version>
+		<v8u:target>3.0.43.214</v8u:target>
+		<v8u:target>3.0.43.213</v8u:target>
+		<v8u:target>3.0.43.235</v8u:target>
+		<v8u:target>3.0.43.236</v8u:target>
+		<v8u:target>3.0.43.223</v8u:target>
+		<v8u:target>3.0.43.215</v8u:target>
+		<v8u:target>3.0.43.239</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_241/1cv8.zip</v8u:file>
+		<v8u:size>30675185</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.241</v8u:version>
+		<v8u:target>3.0.43.239</v8u:target>
+		<v8u:target>3.0.43.240</v8u:target>
+		<v8u:target>3.0.43.215</v8u:target>
+		<v8u:target>3.0.43.223</v8u:target>
+		<v8u:target>3.0.43.236</v8u:target>
+		<v8u:target>3.0.43.235</v8u:target>
+		<v8u:target>3.0.43.214</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_243/1cv8.zip</v8u:file>
+		<v8u:size>31555912</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.243</v8u:version>
+		<v8u:target>3.0.43.235</v8u:target>
+		<v8u:target>3.0.43.236</v8u:target>
+		<v8u:target>3.0.43.223</v8u:target>
+		<v8u:target>3.0.43.215</v8u:target>
+		<v8u:target>3.0.43.239</v8u:target>
+		<v8u:target>3.0.43.240</v8u:target>
+		<v8u:target>3.0.43.241</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_245/1cv8.zip</v8u:file>
+		<v8u:size>42908028</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.245</v8u:version>
+		<v8u:target>3.0.43.243</v8u:target>
+		<v8u:target>3.0.43.240</v8u:target>
+		<v8u:target>3.0.43.241</v8u:target>
+		<v8u:target>3.0.43.239</v8u:target>
+		<v8u:target>3.0.43.223</v8u:target>
+		<v8u:target>3.0.43.236</v8u:target>
+		<v8u:target>3.0.43.235</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_247/1cv8.zip</v8u:file>
+		<v8u:size>40598192</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.247</v8u:version>
+		<v8u:target>3.0.43.235</v8u:target>
+		<v8u:target>3.0.43.239</v8u:target>
+		<v8u:target>3.0.43.241</v8u:target>
+		<v8u:target>3.0.43.240</v8u:target>
+		<v8u:target>3.0.43.236</v8u:target>
+		<v8u:target>3.0.43.243</v8u:target>
+		<v8u:target>3.0.43.245</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_251/1cv8.zip</v8u:file>
+		<v8u:size>39879179</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.251</v8u:version>
+		<v8u:target>3.0.43.247</v8u:target>
+		<v8u:target>3.0.43.245</v8u:target>
+		<v8u:target>3.0.43.243</v8u:target>
+		<v8u:target>3.0.43.241</v8u:target>
+		<v8u:target>3.0.43.240</v8u:target>
+		<v8u:target>3.0.43.239</v8u:target>
+		<v8u:target>3.0.43.236</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_252/1cv8.zip</v8u:file>
+		<v8u:size>38880178</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.252</v8u:version>
+		<v8u:target>3.0.43.239</v8u:target>
+		<v8u:target>3.0.43.240</v8u:target>
+		<v8u:target>3.0.43.243</v8u:target>
+		<v8u:target>3.0.43.245</v8u:target>
+		<v8u:target>3.0.43.247</v8u:target>
+		<v8u:target>3.0.43.241</v8u:target>
+		<v8u:target>3.0.43.251</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_253/1cv8.zip</v8u:file>
+		<v8u:size>41095538</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.253</v8u:version>
+		<v8u:target>3.0.43.251</v8u:target>
+		<v8u:target>3.0.43.252</v8u:target>
+		<v8u:target>3.0.43.241</v8u:target>
+		<v8u:target>3.0.43.243</v8u:target>
+		<v8u:target>3.0.43.247</v8u:target>
+		<v8u:target>3.0.43.245</v8u:target>
+		<v8u:target>3.0.43.240</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_257/1cv8.zip</v8u:file>
+		<v8u:size>41210079</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.257</v8u:version>
+		<v8u:target>3.0.43.245</v8u:target>
+		<v8u:target>3.0.43.247</v8u:target>
+		<v8u:target>3.0.43.243</v8u:target>
+		<v8u:target>3.0.43.241</v8u:target>
+		<v8u:target>3.0.43.252</v8u:target>
+		<v8u:target>3.0.43.251</v8u:target>
+		<v8u:target>3.0.43.253</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_258/1cv8.zip</v8u:file>
+		<v8u:size>40277193</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.258</v8u:version>
+		<v8u:target>3.0.43.253</v8u:target>
+		<v8u:target>3.0.43.257</v8u:target>
+		<v8u:target>3.0.43.251</v8u:target>
+		<v8u:target>3.0.43.252</v8u:target>
+		<v8u:target>3.0.43.243</v8u:target>
+		<v8u:target>3.0.43.247</v8u:target>
+		<v8u:target>3.0.43.245</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_260/1cv8.zip</v8u:file>
+		<v8u:size>27264379</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.260</v8u:version>
+		<v8u:target>3.0.43.247</v8u:target>
+		<v8u:target>3.0.43.245</v8u:target>
+		<v8u:target>3.0.43.252</v8u:target>
+		<v8u:target>3.0.43.251</v8u:target>
+		<v8u:target>3.0.43.257</v8u:target>
+		<v8u:target>3.0.43.253</v8u:target>
+		<v8u:target>3.0.43.258</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_43_263/1cv8.zip</v8u:file>
+		<v8u:size>26253581</v8u:size>
+		<v8u:version platform="8.3.6.2076">3.0.43.263</v8u:version>
+		<v8u:target>3.0.43.258</v8u:target>
+		<v8u:target>3.0.43.260</v8u:target>
+		<v8u:target>3.0.43.253</v8u:target>
+		<v8u:target>3.0.43.251</v8u:target>
+		<v8u:target>3.0.43.257</v8u:target>
+		<v8u:target>3.0.43.252</v8u:target>
+		<v8u:target>3.0.43.247</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_94/1cv8.zip</v8u:file>
+		<v8u:size>125873981</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.94</v8u:version>
+		<v8u:target>3.0.43.252</v8u:target>
+		<v8u:target>3.0.43.257</v8u:target>
+		<v8u:target>3.0.43.253</v8u:target>
+		<v8u:target>3.0.43.260</v8u:target>
+		<v8u:target>3.0.43.258</v8u:target>
+		<v8u:target>3.0.43.263</v8u:target>
+		<v8u:target>3.0.44.91</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_102/1cv8.zip</v8u:file>
+		<v8u:size>128526823</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.102</v8u:version>
+		<v8u:target>3.0.43.263</v8u:target>
+		<v8u:target>3.0.43.258</v8u:target>
+		<v8u:target>3.0.43.260</v8u:target>
+		<v8u:target>3.0.43.253</v8u:target>
+		<v8u:target>3.0.43.257</v8u:target>
+		<v8u:target>3.0.43.252</v8u:target>
+		<v8u:target>3.0.44.94</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_103/1cv8.zip</v8u:file>
+		<v8u:size>127120626</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.103</v8u:version>
+		<v8u:target>3.0.44.94</v8u:target>
+		<v8u:target>3.0.44.102</v8u:target>
+		<v8u:target>3.0.43.257</v8u:target>
+		<v8u:target>3.0.43.253</v8u:target>
+		<v8u:target>3.0.43.260</v8u:target>
+		<v8u:target>3.0.43.258</v8u:target>
+		<v8u:target>3.0.43.263</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_104/1cv8.zip</v8u:file>
+		<v8u:size>127070407</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.104</v8u:version>
+		<v8u:target>3.0.43.263</v8u:target>
+		<v8u:target>3.0.43.258</v8u:target>
+		<v8u:target>3.0.43.260</v8u:target>
+		<v8u:target>3.0.43.257</v8u:target>
+		<v8u:target>3.0.44.102</v8u:target>
+		<v8u:target>3.0.44.94</v8u:target>
+		<v8u:target>3.0.44.103</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_115/1cv8.zip</v8u:file>
+		<v8u:size>138304030</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.115</v8u:version>
+		<v8u:target>3.0.44.103</v8u:target>
+		<v8u:target>3.0.44.104</v8u:target>
+		<v8u:target>3.0.44.94</v8u:target>
+		<v8u:target>3.0.44.102</v8u:target>
+		<v8u:target>3.0.43.260</v8u:target>
+		<v8u:target>3.0.43.258</v8u:target>
+		<v8u:target>3.0.43.263</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_123/1cv8.zip</v8u:file>
+		<v8u:size>138606682</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.123</v8u:version>
+		<v8u:target>3.0.43.263</v8u:target>
+		<v8u:target>3.0.43.260</v8u:target>
+		<v8u:target>3.0.44.102</v8u:target>
+		<v8u:target>3.0.44.94</v8u:target>
+		<v8u:target>3.0.44.104</v8u:target>
+		<v8u:target>3.0.44.115</v8u:target>
+		<v8u:target>3.0.44.103</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_124/1cv8.zip</v8u:file>
+		<v8u:size>138349904</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.124</v8u:version>
+		<v8u:target>3.0.43.263</v8u:target>
+		<v8u:target>3.0.44.103</v8u:target>
+		<v8u:target>3.0.44.115</v8u:target>
+		<v8u:target>3.0.44.104</v8u:target>
+		<v8u:target>3.0.44.123</v8u:target>
+		<v8u:target>3.0.44.102</v8u:target>
+		<v8u:target>3.0.44.94</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_140/1cv8.zip</v8u:file>
+		<v8u:size>62911428</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.140</v8u:version>
+		<v8u:target>3.0.44.94</v8u:target>
+		<v8u:target>3.0.44.102</v8u:target>
+		<v8u:target>3.0.44.123</v8u:target>
+		<v8u:target>3.0.44.124</v8u:target>
+		<v8u:target>3.0.44.104</v8u:target>
+		<v8u:target>3.0.44.115</v8u:target>
+		<v8u:target>3.0.44.103</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_155/1cv8.zip</v8u:file>
+		<v8u:size>48201227</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.155</v8u:version>
+		<v8u:target>3.0.44.103</v8u:target>
+		<v8u:target>3.0.44.102</v8u:target>
+		<v8u:target>3.0.44.124</v8u:target>
+		<v8u:target>3.0.44.115</v8u:target>
+		<v8u:target>3.0.44.123</v8u:target>
+		<v8u:target>3.0.44.104</v8u:target>
+		<v8u:target>3.0.44.140</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_164/1cv8.zip</v8u:file>
+		<v8u:size>49549013</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.164</v8u:version>
+		<v8u:target>3.0.44.123</v8u:target>
+		<v8u:target>3.0.44.124</v8u:target>
+		<v8u:target>3.0.44.104</v8u:target>
+		<v8u:target>3.0.44.115</v8u:target>
+		<v8u:target>3.0.44.155</v8u:target>
+		<v8u:target>3.0.44.140</v8u:target>
+		<v8u:target>3.0.44.103</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_166/1cv8.zip</v8u:file>
+		<v8u:size>49649145</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.166</v8u:version>
+		<v8u:target>3.0.44.140</v8u:target>
+		<v8u:target>3.0.44.155</v8u:target>
+		<v8u:target>3.0.44.164</v8u:target>
+		<v8u:target>3.0.44.115</v8u:target>
+		<v8u:target>3.0.44.104</v8u:target>
+		<v8u:target>3.0.44.124</v8u:target>
+		<v8u:target>3.0.44.123</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_177/1cv8.zip</v8u:file>
+		<v8u:size>36359030</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.177</v8u:version>
+		<v8u:target>3.0.44.123</v8u:target>
+		<v8u:target>3.0.44.124</v8u:target>
+		<v8u:target>3.0.44.164</v8u:target>
+		<v8u:target>3.0.44.166</v8u:target>
+		<v8u:target>3.0.44.155</v8u:target>
+		<v8u:target>3.0.44.140</v8u:target>
+		<v8u:target>3.0.44.167</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_188/1cv8.zip</v8u:file>
+		<v8u:size>57971576</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.188</v8u:version>
+		<v8u:target>3.0.44.177</v8u:target>
+		<v8u:target>3.0.44.140</v8u:target>
+		<v8u:target>3.0.44.155</v8u:target>
+		<v8u:target>3.0.44.166</v8u:target>
+		<v8u:target>3.0.44.164</v8u:target>
+		<v8u:target>3.0.44.124</v8u:target>
+		<v8u:target>3.0.44.123</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_198/1cv8.zip</v8u:file>
+		<v8u:size>58127549</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.198</v8u:version>
+		<v8u:target>3.0.44.124</v8u:target>
+		<v8u:target>3.0.44.164</v8u:target>
+		<v8u:target>3.0.44.166</v8u:target>
+		<v8u:target>3.0.44.155</v8u:target>
+		<v8u:target>3.0.44.140</v8u:target>
+		<v8u:target>3.0.44.177</v8u:target>
+		<v8u:target>3.0.44.188</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_199/1cv8.zip</v8u:file>
+		<v8u:size>47593638</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.199</v8u:version>
+		<v8u:target>3.0.44.177</v8u:target>
+		<v8u:target>3.0.44.198</v8u:target>
+		<v8u:target>3.0.44.188</v8u:target>
+		<v8u:target>3.0.44.140</v8u:target>
+		<v8u:target>3.0.44.155</v8u:target>
+		<v8u:target>3.0.44.166</v8u:target>
+		<v8u:target>3.0.44.164</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_200/1cv8.zip</v8u:file>
+		<v8u:size>58739863</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.200</v8u:version>
+		<v8u:target>3.0.44.155</v8u:target>
+		<v8u:target>3.0.44.188</v8u:target>
+		<v8u:target>3.0.44.198</v8u:target>
+		<v8u:target>3.0.44.199</v8u:target>
+		<v8u:target>3.0.44.177</v8u:target>
+		<v8u:target>3.0.44.166</v8u:target>
+		<v8u:target>3.0.44.164</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_201/1cv8.zip</v8u:file>
+		<v8u:size>57976069</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.201</v8u:version>
+		<v8u:target>3.0.44.164</v8u:target>
+		<v8u:target>3.0.44.166</v8u:target>
+		<v8u:target>3.0.44.177</v8u:target>
+		<v8u:target>3.0.44.199</v8u:target>
+		<v8u:target>3.0.44.200</v8u:target>
+		<v8u:target>3.0.44.198</v8u:target>
+		<v8u:target>3.0.44.188</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_202/1cv8.zip</v8u:file>
+		<v8u:size>57750987</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.202</v8u:version>
+		<v8u:target>3.0.44.188</v8u:target>
+		<v8u:target>3.0.44.198</v8u:target>
+		<v8u:target>3.0.44.200</v8u:target>
+		<v8u:target>3.0.44.199</v8u:target>
+		<v8u:target>3.0.44.177</v8u:target>
+		<v8u:target>3.0.44.166</v8u:target>
+		<v8u:target>3.0.44.201</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_203/1cv8.zip</v8u:file>
+		<v8u:size>55018138</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.203</v8u:version>
+		<v8u:target>3.0.44.201</v8u:target>
+		<v8u:target>3.0.44.202</v8u:target>
+		<v8u:target>3.0.44.177</v8u:target>
+		<v8u:target>3.0.44.199</v8u:target>
+		<v8u:target>3.0.44.200</v8u:target>
+		<v8u:target>3.0.44.198</v8u:target>
+		<v8u:target>3.0.44.188</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_44_204/1cv8.zip</v8u:file>
+		<v8u:size>32084860</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.44.204</v8u:version>
+		<v8u:target>3.0.44.188</v8u:target>
+		<v8u:target>3.0.44.198</v8u:target>
+		<v8u:target>3.0.44.200</v8u:target>
+		<v8u:target>3.0.44.199</v8u:target>
+		<v8u:target>3.0.44.202</v8u:target>
+		<v8u:target>3.0.44.201</v8u:target>
+		<v8u:target>3.0.44.203</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_45_20/1cv8.zip</v8u:file>
+		<v8u:size>119807908</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.45.20</v8u:version>
+		<v8u:target>3.0.45.18</v8u:target>
+		<v8u:target>3.0.44.203</v8u:target>
+		<v8u:target>3.0.44.201</v8u:target>
+		<v8u:target>3.0.44.202</v8u:target>
+		<v8u:target>3.0.44.204</v8u:target>
+		<v8u:target>3.0.44.199</v8u:target>
+		<v8u:target>3.0.44.200</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_46_11/1cv8.zip</v8u:file>
+		<v8u:size>114717829</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.46.11</v8u:version>
+		<v8u:target>3.0.44.200</v8u:target>
+		<v8u:target>3.0.44.204</v8u:target>
+		<v8u:target>3.0.44.202</v8u:target>
+		<v8u:target>3.0.44.201</v8u:target>
+		<v8u:target>3.0.44.203</v8u:target>
+		<v8u:target>3.0.46.9</v8u:target>
+		<v8u:target>3.0.45.20</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_46_16/1cv8.zip</v8u:file>
+		<v8u:size>116861382</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.46.16</v8u:version>
+		<v8u:target>3.0.45.20</v8u:target>
+		<v8u:target>3.0.46.9</v8u:target>
+		<v8u:target>3.0.46.11</v8u:target>
+		<v8u:target>3.0.44.203</v8u:target>
+		<v8u:target>3.0.44.201</v8u:target>
+		<v8u:target>3.0.44.204</v8u:target>
+		<v8u:target>3.0.44.202</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_46_18/1cv8.zip</v8u:file>
+		<v8u:size>118073962</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.46.18</v8u:version>
+		<v8u:target>3.0.44.202</v8u:target>
+		<v8u:target>3.0.44.204</v8u:target>
+		<v8u:target>3.0.44.203</v8u:target>
+		<v8u:target>3.0.46.11</v8u:target>
+		<v8u:target>3.0.46.17</v8u:target>
+		<v8u:target>3.0.46.16</v8u:target>
+		<v8u:target>3.0.45.20</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_46_19/1cv8.zip</v8u:file>
+		<v8u:size>118125756</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.46.19</v8u:version>
+		<v8u:target>3.0.45.20</v8u:target>
+		<v8u:target>3.0.46.16</v8u:target>
+		<v8u:target>3.0.46.17</v8u:target>
+		<v8u:target>3.0.46.18</v8u:target>
+		<v8u:target>3.0.46.11</v8u:target>
+		<v8u:target>3.0.44.203</v8u:target>
+		<v8u:target>3.0.44.204</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_46_20/1cv8.zip</v8u:file>
+		<v8u:size>119275467</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.46.20</v8u:version>
+		<v8u:target>3.0.45.20</v8u:target>
+		<v8u:target>3.0.44.204</v8u:target>
+		<v8u:target>3.0.46.11</v8u:target>
+		<v8u:target>3.0.46.18</v8u:target>
+		<v8u:target>3.0.46.16</v8u:target>
+		<v8u:target>3.0.46.19</v8u:target>
+		<v8u:target>3.0.46.17</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_47_23/1cv8.zip</v8u:file>
+		<v8u:size>53923829</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.47.23</v8u:version>
+		<v8u:target>3.0.45.20</v8u:target>
+		<v8u:target>3.0.46.16</v8u:target>
+		<v8u:target>3.0.47.18</v8u:target>
+		<v8u:target>3.0.46.18</v8u:target>
+		<v8u:target>3.0.46.19</v8u:target>
+		<v8u:target>3.0.46.20</v8u:target>
+		<v8u:target>3.0.46.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_47_26/1cv8.zip</v8u:file>
+		<v8u:size>51739445</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.47.26</v8u:version>
+		<v8u:target>3.0.46.11</v8u:target>
+		<v8u:target>3.0.46.20</v8u:target>
+		<v8u:target>3.0.46.18</v8u:target>
+		<v8u:target>3.0.46.19</v8u:target>
+		<v8u:target>3.0.47.23</v8u:target>
+		<v8u:target>3.0.46.16</v8u:target>
+		<v8u:target>3.0.47.25</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_47_28/1cv8.zip</v8u:file>
+		<v8u:size>50610973</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.47.28</v8u:version>
+		<v8u:target>3.0.47.25</v8u:target>
+		<v8u:target>3.0.46.16</v8u:target>
+		<v8u:target>3.0.47.23</v8u:target>
+		<v8u:target>3.0.47.26</v8u:target>
+		<v8u:target>3.0.46.19</v8u:target>
+		<v8u:target>3.0.46.18</v8u:target>
+		<v8u:target>3.0.46.20</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_47_32/1cv8.zip</v8u:file>
+		<v8u:size>51003271</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.47.32</v8u:version>
+		<v8u:target>3.0.46.20</v8u:target>
+		<v8u:target>3.0.46.19</v8u:target>
+		<v8u:target>3.0.47.29</v8u:target>
+		<v8u:target>3.0.47.26</v8u:target>
+		<v8u:target>3.0.47.28</v8u:target>
+		<v8u:target>3.0.47.23</v8u:target>
+		<v8u:target>3.0.47.25</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_47_33/1cv8.zip</v8u:file>
+		<v8u:size>49534330</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.47.33</v8u:version>
+		<v8u:target>3.0.47.25</v8u:target>
+		<v8u:target>3.0.47.23</v8u:target>
+		<v8u:target>3.0.47.28</v8u:target>
+		<v8u:target>3.0.47.29</v8u:target>
+		<v8u:target>3.0.47.26</v8u:target>
+		<v8u:target>3.0.46.20</v8u:target>
+		<v8u:target>3.0.47.32</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_48_19/1cv8.zip</v8u:file>
+		<v8u:size>73235271</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.48.19</v8u:version>
+		<v8u:target>3.0.46.20</v8u:target>
+		<v8u:target>3.0.47.26</v8u:target>
+		<v8u:target>3.0.47.28</v8u:target>
+		<v8u:target>3.0.47.23</v8u:target>
+		<v8u:target>3.0.47.33</v8u:target>
+		<v8u:target>3.0.47.32</v8u:target>
+		<v8u:target>3.0.48.16</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_48_21/1cv8.zip</v8u:file>
+		<v8u:size>76780231</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.48.21</v8u:version>
+		<v8u:target>3.0.48.19</v8u:target>
+		<v8u:target>3.0.47.32</v8u:target>
+		<v8u:target>3.0.47.33</v8u:target>
+		<v8u:target>3.0.47.28</v8u:target>
+		<v8u:target>3.0.47.26</v8u:target>
+		<v8u:target>3.0.47.23</v8u:target>
+		<v8u:target>3.0.46.20</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_48_22/1cv8.zip</v8u:file>
+		<v8u:size>58780004</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.48.22</v8u:version>
+		<v8u:target>3.0.47.23</v8u:target>
+		<v8u:target>3.0.47.26</v8u:target>
+		<v8u:target>3.0.47.28</v8u:target>
+		<v8u:target>3.0.47.33</v8u:target>
+		<v8u:target>3.0.47.32</v8u:target>
+		<v8u:target>3.0.48.19</v8u:target>
+		<v8u:target>3.0.48.21</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_49_17/1cv8.zip</v8u:file>
+		<v8u:size>86991297</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.49.17</v8u:version>
+		<v8u:target>3.0.48.22</v8u:target>
+		<v8u:target>3.0.48.21</v8u:target>
+		<v8u:target>3.0.48.19</v8u:target>
+		<v8u:target>3.0.47.32</v8u:target>
+		<v8u:target>3.0.47.33</v8u:target>
+		<v8u:target>3.0.47.28</v8u:target>
+		<v8u:target>3.0.47.26</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_49_18/1cv8.zip</v8u:file>
+		<v8u:size>86390161</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.49.18</v8u:version>
+		<v8u:target>3.0.47.28</v8u:target>
+		<v8u:target>3.0.47.33</v8u:target>
+		<v8u:target>3.0.47.32</v8u:target>
+		<v8u:target>3.0.48.19</v8u:target>
+		<v8u:target>3.0.48.21</v8u:target>
+		<v8u:target>3.0.48.22</v8u:target>
+		<v8u:target>3.0.49.17</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_49_20/1cv8.zip</v8u:file>
+		<v8u:size>86497402</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.49.20</v8u:version>
+		<v8u:target>3.0.49.17</v8u:target>
+		<v8u:target>3.0.48.22</v8u:target>
+		<v8u:target>3.0.48.21</v8u:target>
+		<v8u:target>3.0.48.19</v8u:target>
+		<v8u:target>3.0.47.33</v8u:target>
+		<v8u:target>3.0.47.32</v8u:target>
+		<v8u:target>3.0.49.18</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_49_21/1cv8.zip</v8u:file>
+		<v8u:size>86612233</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.49.21</v8u:version>
+		<v8u:target>3.0.49.18</v8u:target>
+		<v8u:target>3.0.49.20</v8u:target>
+		<v8u:target>3.0.47.33</v8u:target>
+		<v8u:target>3.0.48.22</v8u:target>
+		<v8u:target>3.0.48.21</v8u:target>
+		<v8u:target>3.0.48.19</v8u:target>
+		<v8u:target>3.0.49.17</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_49_22/1cv8.zip</v8u:file>
+		<v8u:size>63742810</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.49.22</v8u:version>
+		<v8u:target>3.0.49.17</v8u:target>
+		<v8u:target>3.0.48.19</v8u:target>
+		<v8u:target>3.0.48.22</v8u:target>
+		<v8u:target>3.0.49.20</v8u:target>
+		<v8u:target>3.0.49.18</v8u:target>
+		<v8u:target>3.0.48.21</v8u:target>
+		<v8u:target>3.0.49.21</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_49_23/1cv8.zip</v8u:file>
+		<v8u:size>59218202</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.49.23</v8u:version>
+		<v8u:target>3.0.49.21</v8u:target>
+		<v8u:target>3.0.48.21</v8u:target>
+		<v8u:target>3.0.49.20</v8u:target>
+		<v8u:target>3.0.49.22</v8u:target>
+		<v8u:target>3.0.49.18</v8u:target>
+		<v8u:target>3.0.48.22</v8u:target>
+		<v8u:target>3.0.49.17</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_49_27/1cv8.zip</v8u:file>
+		<v8u:size>20551427</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.49.27</v8u:version>
+		<v8u:target>3.0.49.17</v8u:target>
+		<v8u:target>3.0.49.23</v8u:target>
+		<v8u:target>3.0.49.20</v8u:target>
+		<v8u:target>3.0.49.26</v8u:target>
+		<v8u:target>3.0.49.21</v8u:target>
+		<v8u:target>3.0.49.22</v8u:target>
+		<v8u:target>3.0.49.18</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_49_28/1cv8.zip</v8u:file>
+		<v8u:size>20650238</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.49.28</v8u:version>
+		<v8u:target>3.0.49.18</v8u:target>
+		<v8u:target>3.0.49.22</v8u:target>
+		<v8u:target>3.0.49.21</v8u:target>
+		<v8u:target>3.0.49.26</v8u:target>
+		<v8u:target>3.0.49.27</v8u:target>
+		<v8u:target>3.0.49.20</v8u:target>
+		<v8u:target>3.0.49.23</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_50_10/1cv8.zip</v8u:file>
+		<v8u:size>31505690</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.50.10</v8u:version>
+		<v8u:target>3.0.49.23</v8u:target>
+		<v8u:target>3.0.49.21</v8u:target>
+		<v8u:target>3.0.49.22</v8u:target>
+		<v8u:target>3.0.49.18</v8u:target>
+		<v8u:target>3.0.50.8</v8u:target>
+		<v8u:target>3.0.49.28</v8u:target>
+		<v8u:target>3.0.49.27</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_50_12/1cv8.zip</v8u:file>
+		<v8u:size>31041977</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.50.12</v8u:version>
+		<v8u:target>3.0.49.27</v8u:target>
+		<v8u:target>3.0.49.28</v8u:target>
+		<v8u:target>3.0.50.8</v8u:target>
+		<v8u:target>3.0.49.22</v8u:target>
+		<v8u:target>3.0.49.23</v8u:target>
+		<v8u:target>3.0.50.10</v8u:target>
+		<v8u:target>3.0.50.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_50_18/1cv8.zip</v8u:file>
+		<v8u:size>31749764</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.50.18</v8u:version>
+		<v8u:target>3.0.50.11</v8u:target>
+		<v8u:target>3.0.50.10</v8u:target>
+		<v8u:target>3.0.50.8</v8u:target>
+		<v8u:target>3.0.50.17</v8u:target>
+		<v8u:target>3.0.50.12</v8u:target>
+		<v8u:target>3.0.49.28</v8u:target>
+		<v8u:target>3.0.49.27</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_50_19/1cv8.zip</v8u:file>
+		<v8u:size>31952051</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.50.19</v8u:version>
+		<v8u:target>3.0.49.27</v8u:target>
+		<v8u:target>3.0.49.28</v8u:target>
+		<v8u:target>3.0.50.12</v8u:target>
+		<v8u:target>3.0.50.17</v8u:target>
+		<v8u:target>3.0.50.18</v8u:target>
+		<v8u:target>3.0.50.10</v8u:target>
+		<v8u:target>3.0.50.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_51_12/1cv8.zip</v8u:file>
+		<v8u:size>36490651</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.51.12</v8u:version>
+		<v8u:target>3.0.50.17</v8u:target>
+		<v8u:target>3.0.50.10</v8u:target>
+		<v8u:target>3.0.50.18</v8u:target>
+		<v8u:target>3.0.50.19</v8u:target>
+		<v8u:target>3.0.50.12</v8u:target>
+		<v8u:target>3.0.49.27</v8u:target>
+		<v8u:target>3.0.49.28</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_51_14/1cv8.zip</v8u:file>
+		<v8u:size>39965824</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.51.14</v8u:version>
+		<v8u:target>3.0.49.28</v8u:target>
+		<v8u:target>3.0.50.12</v8u:target>
+		<v8u:target>3.0.50.19</v8u:target>
+		<v8u:target>3.0.50.18</v8u:target>
+		<v8u:target>3.0.50.10</v8u:target>
+		<v8u:target>3.0.49.27</v8u:target>
+		<v8u:target>3.0.51.12</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_51_16/1cv8.zip</v8u:file>
+		<v8u:size>63547761</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.51.16</v8u:version>
+		<v8u:target>3.0.51.14</v8u:target>
+		<v8u:target>3.0.51.12</v8u:target>
+		<v8u:target>3.0.50.10</v8u:target>
+		<v8u:target>3.0.50.18</v8u:target>
+		<v8u:target>3.0.50.19</v8u:target>
+		<v8u:target>3.0.50.12</v8u:target>
+		<v8u:target>3.0.49.28</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_51_20/1cv8.zip</v8u:file>
+		<v8u:size>56644016</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.51.20</v8u:version>
+		<v8u:target>3.0.50.12</v8u:target>
+		<v8u:target>3.0.50.19</v8u:target>
+		<v8u:target>3.0.50.18</v8u:target>
+		<v8u:target>3.0.51.12</v8u:target>
+		<v8u:target>3.0.51.14</v8u:target>
+		<v8u:target>3.0.51.16</v8u:target>
+		<v8u:target>3.0.51.19</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_51_21/1cv8.zip</v8u:file>
+		<v8u:size>56846840</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.51.21</v8u:version>
+		<v8u:target>3.0.51.19</v8u:target>
+		<v8u:target>3.0.51.16</v8u:target>
+		<v8u:target>3.0.51.20</v8u:target>
+		<v8u:target>3.0.51.14</v8u:target>
+		<v8u:target>3.0.51.12</v8u:target>
+		<v8u:target>3.0.50.18</v8u:target>
+		<v8u:target>3.0.50.19</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_51_22/1cv8.zip</v8u:file>
+		<v8u:size>57206633</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.51.22</v8u:version>
+		<v8u:target>3.0.50.19</v8u:target>
+		<v8u:target>3.0.51.12</v8u:target>
+		<v8u:target>3.0.51.20</v8u:target>
+		<v8u:target>3.0.51.19</v8u:target>
+		<v8u:target>3.0.51.14</v8u:target>
+		<v8u:target>3.0.51.16</v8u:target>
+		<v8u:target>3.0.51.21</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_51_25/1cv8.zip</v8u:file>
+		<v8u:size>63980811</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.51.25</v8u:version>
+		<v8u:target>3.0.51.21</v8u:target>
+		<v8u:target>3.0.51.22</v8u:target>
+		<v8u:target>3.0.51.16</v8u:target>
+		<v8u:target>3.0.51.14</v8u:target>
+		<v8u:target>3.0.51.20</v8u:target>
+		<v8u:target>3.0.51.12</v8u:target>
+		<v8u:target>3.0.50.19</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_51_27/1cv8.zip</v8u:file>
+		<v8u:size>54662798</v8u:size>
+		<v8u:version platform="8.3.8.1747">3.0.51.27</v8u:version>
+		<v8u:target>3.0.51.25</v8u:target>
+		<v8u:target>3.0.51.22</v8u:target>
+		<v8u:target>3.0.51.12</v8u:target>
+		<v8u:target>3.0.51.14</v8u:target>
+		<v8u:target>3.0.51.16</v8u:target>
+		<v8u:target>3.0.51.20</v8u:target>
+		<v8u:target>3.0.51.21</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_52_32/1cv8.zip</v8u:file>
+		<v8u:size>110289944</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.52.32</v8u:version>
+		<v8u:target>3.0.51.27</v8u:target>
+		<v8u:target>3.0.51.25</v8u:target>
+		<v8u:target>3.0.51.22</v8u:target>
+		<v8u:target>3.0.51.20</v8u:target>
+		<v8u:target>3.0.51.21</v8u:target>
+		<v8u:target>3.0.52.29</v8u:target>
+		<v8u:target>3.0.52.30</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_52_35/1cv8.zip</v8u:file>
+		<v8u:size>113961616</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.52.35</v8u:version>
+		<v8u:target>3.0.52.30</v8u:target>
+		<v8u:target>3.0.52.29</v8u:target>
+		<v8u:target>3.0.52.32</v8u:target>
+		<v8u:target>3.0.51.22</v8u:target>
+		<v8u:target>3.0.51.21</v8u:target>
+		<v8u:target>3.0.51.25</v8u:target>
+		<v8u:target>3.0.51.27</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_52_36/1cv8.zip</v8u:file>
+		<v8u:size>113972746</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.52.36</v8u:version>
+		<v8u:target>3.0.51.27</v8u:target>
+		<v8u:target>3.0.51.25</v8u:target>
+		<v8u:target>3.0.51.21</v8u:target>
+		<v8u:target>3.0.51.22</v8u:target>
+		<v8u:target>3.0.52.30</v8u:target>
+		<v8u:target>3.0.52.32</v8u:target>
+		<v8u:target>3.0.52.35</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_52_39/1cv8.zip</v8u:file>
+		<v8u:size>116664276</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.52.39</v8u:version>
+		<v8u:target>3.0.52.32</v8u:target>
+		<v8u:target>3.0.52.36</v8u:target>
+		<v8u:target>3.0.52.35</v8u:target>
+		<v8u:target>3.0.51.22</v8u:target>
+		<v8u:target>3.0.51.21</v8u:target>
+		<v8u:target>3.0.51.25</v8u:target>
+		<v8u:target>3.0.51.27</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_52_42/1cv8.zip</v8u:file>
+		<v8u:size>117065565</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.52.42</v8u:version>
+		<v8u:target>3.0.51.27</v8u:target>
+		<v8u:target>3.0.51.25</v8u:target>
+		<v8u:target>3.0.51.22</v8u:target>
+		<v8u:target>3.0.52.35</v8u:target>
+		<v8u:target>3.0.52.36</v8u:target>
+		<v8u:target>3.0.52.39</v8u:target>
+		<v8u:target>3.0.52.32</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_53_38/1cv8.zip</v8u:file>
+		<v8u:size>96577495</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.53.38</v8u:version>
+		<v8u:target>3.0.53.34</v8u:target>
+		<v8u:target>3.0.53.35</v8u:target>
+		<v8u:target>3.0.52.32</v8u:target>
+		<v8u:target>3.0.52.39</v8u:target>
+		<v8u:target>3.0.52.35</v8u:target>
+		<v8u:target>3.0.52.36</v8u:target>
+		<v8u:target>3.0.52.42</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_53_39/1cv8.zip</v8u:file>
+		<v8u:size>97019422</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.53.39</v8u:version>
+		<v8u:target>3.0.52.42</v8u:target>
+		<v8u:target>3.0.52.39</v8u:target>
+		<v8u:target>3.0.52.36</v8u:target>
+		<v8u:target>3.0.52.35</v8u:target>
+		<v8u:target>3.0.52.32</v8u:target>
+		<v8u:target>3.0.53.35</v8u:target>
+		<v8u:target>3.0.53.38</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_54_13/1cv8.zip</v8u:file>
+		<v8u:size>90637556</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.54.13</v8u:version>
+		<v8u:target>3.0.53.38</v8u:target>
+		<v8u:target>3.0.53.39</v8u:target>
+		<v8u:target>3.0.54.10</v8u:target>
+		<v8u:target>3.0.54.11</v8u:target>
+		<v8u:target>3.0.52.36</v8u:target>
+		<v8u:target>3.0.52.39</v8u:target>
+		<v8u:target>3.0.52.42</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_54_15/1cv8.zip</v8u:file>
+		<v8u:size>90600829</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.54.15</v8u:version>
+		<v8u:target>3.0.52.42</v8u:target>
+		<v8u:target>3.0.52.39</v8u:target>
+		<v8u:target>3.0.52.36</v8u:target>
+		<v8u:target>3.0.54.11</v8u:target>
+		<v8u:target>3.0.54.13</v8u:target>
+		<v8u:target>3.0.53.39</v8u:target>
+		<v8u:target>3.0.53.38</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_54_20/1cv8.zip</v8u:file>
+		<v8u:size>78376814</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.54.20</v8u:version>
+		<v8u:target>3.0.53.39</v8u:target>
+		<v8u:target>3.0.53.38</v8u:target>
+		<v8u:target>3.0.54.13</v8u:target>
+		<v8u:target>3.0.54.19</v8u:target>
+		<v8u:target>3.0.54.15</v8u:target>
+		<v8u:target>3.0.52.39</v8u:target>
+		<v8u:target>3.0.52.42</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_55_14/1cv8.zip</v8u:file>
+		<v8u:size>51407982</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.55.14</v8u:version>
+		<v8u:target>3.0.54.15</v8u:target>
+		<v8u:target>3.0.54.20</v8u:target>
+		<v8u:target>3.0.54.13</v8u:target>
+		<v8u:target>3.0.53.38</v8u:target>
+		<v8u:target>3.0.53.39</v8u:target>
+		<v8u:target>3.0.55.6</v8u:target>
+		<v8u:target>3.0.55.12</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_55_16/1cv8.zip</v8u:file>
+		<v8u:size>50725361</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.55.16</v8u:version>
+		<v8u:target>3.0.55.12</v8u:target>
+		<v8u:target>3.0.55.6</v8u:target>
+		<v8u:target>3.0.55.14</v8u:target>
+		<v8u:target>3.0.53.39</v8u:target>
+		<v8u:target>3.0.54.20</v8u:target>
+		<v8u:target>3.0.54.13</v8u:target>
+		<v8u:target>3.0.54.15</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_56_22/1cv8.zip</v8u:file>
+		<v8u:size>65836435</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.56.22</v8u:version>
+		<v8u:target>3.0.54.15</v8u:target>
+		<v8u:target>3.0.54.13</v8u:target>
+		<v8u:target>3.0.54.20</v8u:target>
+		<v8u:target>3.0.53.39</v8u:target>
+		<v8u:target>3.0.55.14</v8u:target>
+		<v8u:target>3.0.55.12</v8u:target>
+		<v8u:target>3.0.55.16</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_57_10/1cv8.zip</v8u:file>
+		<v8u:size>68037353</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.57.10</v8u:version>
+		<v8u:target>3.0.55.16</v8u:target>
+		<v8u:target>3.0.56.22</v8u:target>
+		<v8u:target>3.0.55.14</v8u:target>
+		<v8u:target>3.0.53.39</v8u:target>
+		<v8u:target>3.0.54.20</v8u:target>
+		<v8u:target>3.0.54.13</v8u:target>
+		<v8u:target>3.0.54.15</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_57_17/1cv8.zip</v8u:file>
+		<v8u:size>99693621</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.57.17</v8u:version>
+		<v8u:target>3.0.54.15</v8u:target>
+		<v8u:target>3.0.54.20</v8u:target>
+		<v8u:target>3.0.55.14</v8u:target>
+		<v8u:target>3.0.56.22</v8u:target>
+		<v8u:target>3.0.55.16</v8u:target>
+		<v8u:target>3.0.57.10</v8u:target>
+		<v8u:target>3.0.57.15</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_58_20/1cv8.zip</v8u:file>
+		<v8u:size>108972048</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.58.20</v8u:version>
+		<v8u:target>3.0.57.10</v8u:target>
+		<v8u:target>3.0.57.15</v8u:target>
+		<v8u:target>3.0.57.17</v8u:target>
+		<v8u:target>3.0.56.22</v8u:target>
+		<v8u:target>3.0.55.14</v8u:target>
+		<v8u:target>3.0.55.16</v8u:target>
+		<v8u:target>3.0.54.20</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_58_26/1cv8.zip</v8u:file>
+		<v8u:size>105323710</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.58.26</v8u:version>
+		<v8u:target>3.0.55.16</v8u:target>
+		<v8u:target>3.0.55.14</v8u:target>
+		<v8u:target>3.0.56.22</v8u:target>
+		<v8u:target>3.0.57.17</v8u:target>
+		<v8u:target>3.0.57.15</v8u:target>
+		<v8u:target>3.0.58.20</v8u:target>
+		<v8u:target>3.0.57.10</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_58_41/1cv8.zip</v8u:file>
+		<v8u:size>106346218</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.58.41</v8u:version>
+		<v8u:target>3.0.57.10</v8u:target>
+		<v8u:target>3.0.58.20</v8u:target>
+		<v8u:target>3.0.57.15</v8u:target>
+		<v8u:target>3.0.57.17</v8u:target>
+		<v8u:target>3.0.56.22</v8u:target>
+		<v8u:target>3.0.55.16</v8u:target>
+		<v8u:target>3.0.58.26</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_59_43/1cv8.zip</v8u:file>
+		<v8u:size>107968751</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.59.43</v8u:version>
+		<v8u:target>3.0.58.26</v8u:target>
+		<v8u:target>3.0.58.41</v8u:target>
+		<v8u:target>3.0.59.34</v8u:target>
+		<v8u:target>3.0.59.39</v8u:target>
+		<v8u:target>3.0.58.20</v8u:target>
+		<v8u:target>3.0.57.10</v8u:target>
+		<v8u:target>3.0.57.17</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_59_45/1cv8.zip</v8u:file>
+		<v8u:size>64018233</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.59.45</v8u:version>
+		<v8u:target>3.0.57.17</v8u:target>
+		<v8u:target>3.0.58.20</v8u:target>
+		<v8u:target>3.0.59.39</v8u:target>
+		<v8u:target>3.0.59.34</v8u:target>
+		<v8u:target>3.0.59.43</v8u:target>
+		<v8u:target>3.0.58.26</v8u:target>
+		<v8u:target>3.0.58.41</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_59_54/1cv8.zip</v8u:file>
+		<v8u:size>64720319</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.59.54</v8u:version>
+		<v8u:target>3.0.58.41</v8u:target>
+		<v8u:target>3.0.58.26</v8u:target>
+		<v8u:target>3.0.59.39</v8u:target>
+		<v8u:target>3.0.59.43</v8u:target>
+		<v8u:target>3.0.59.45</v8u:target>
+		<v8u:target>3.0.58.20</v8u:target>
+		<v8u:target>3.0.57.17</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_59_56/1cv8.zip</v8u:file>
+		<v8u:size>66972554</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.59.56</v8u:version>
+		<v8u:target>3.0.57.17</v8u:target>
+		<v8u:target>3.0.58.20</v8u:target>
+		<v8u:target>3.0.59.45</v8u:target>
+		<v8u:target>3.0.59.43</v8u:target>
+		<v8u:target>3.0.58.26</v8u:target>
+		<v8u:target>3.0.58.41</v8u:target>
+		<v8u:target>3.0.59.54</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_60_34/1cv8.zip</v8u:file>
+		<v8u:size>59994773</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.60.34</v8u:version>
+		<v8u:target>3.0.58.41</v8u:target>
+		<v8u:target>3.0.59.43</v8u:target>
+		<v8u:target>3.0.60.32</v8u:target>
+		<v8u:target>3.0.60.33</v8u:target>
+		<v8u:target>3.0.59.54</v8u:target>
+		<v8u:target>3.0.59.56</v8u:target>
+		<v8u:target>3.0.59.45</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_60_44/1cv8.zip</v8u:file>
+		<v8u:size>51058405</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.60.44</v8u:version>
+		<v8u:target>3.0.59.45</v8u:target>
+		<v8u:target>3.0.59.54</v8u:target>
+		<v8u:target>3.0.60.33</v8u:target>
+		<v8u:target>3.0.59.43</v8u:target>
+		<v8u:target>3.0.59.56</v8u:target>
+		<v8u:target>3.0.60.34</v8u:target>
+		<v8u:target>3.0.60.40</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_60_46/1cv8.zip</v8u:file>
+		<v8u:size>50815371</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.60.46</v8u:version>
+		<v8u:target>3.0.59.56</v8u:target>
+		<v8u:target>3.0.60.33</v8u:target>
+		<v8u:target>3.0.59.54</v8u:target>
+		<v8u:target>3.0.59.45</v8u:target>
+		<v8u:target>3.0.60.40</v8u:target>
+		<v8u:target>3.0.60.44</v8u:target>
+		<v8u:target>3.0.60.34</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_60_50/1cv8.zip</v8u:file>
+		<v8u:size>51064238</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.60.50</v8u:version>
+		<v8u:target>3.0.60.44</v8u:target>
+		<v8u:target>3.0.60.46</v8u:target>
+		<v8u:target>3.0.60.34</v8u:target>
+		<v8u:target>3.0.60.40</v8u:target>
+		<v8u:target>3.0.59.45</v8u:target>
+		<v8u:target>3.0.59.54</v8u:target>
+		<v8u:target>3.0.59.56</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_60_59/1cv8.zip</v8u:file>
+		<v8u:size>51605634</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.60.59</v8u:version>
+		<v8u:target>3.0.59.56</v8u:target>
+		<v8u:target>3.0.59.54</v8u:target>
+		<v8u:target>3.0.59.45</v8u:target>
+		<v8u:target>3.0.60.34</v8u:target>
+		<v8u:target>3.0.60.44</v8u:target>
+		<v8u:target>3.0.60.46</v8u:target>
+		<v8u:target>3.0.60.50</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_61_37/1cv8.zip</v8u:file>
+		<v8u:size>166954453</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.61.37</v8u:version>
+		<v8u:target>3.0.60.50</v8u:target>
+		<v8u:target>3.0.60.46</v8u:target>
+		<v8u:target>3.0.60.59</v8u:target>
+		<v8u:target>3.0.60.60</v8u:target>
+		<v8u:target>3.0.60.44</v8u:target>
+		<v8u:target>3.0.60.34</v8u:target>
+		<v8u:target>3.0.59.56</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_61_47/1cv8.zip</v8u:file>
+		<v8u:size>153433422</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.61.47</v8u:version>
+		<v8u:target>3.0.60.44</v8u:target>
+		<v8u:target>3.0.60.60</v8u:target>
+		<v8u:target>3.0.60.59</v8u:target>
+		<v8u:target>3.0.60.46</v8u:target>
+		<v8u:target>3.0.60.50</v8u:target>
+		<v8u:target>3.0.61.37</v8u:target>
+		<v8u:target>3.0.61.44</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_62_17/1cv8.zip</v8u:file>
+		<v8u:size>159796031</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.62.17</v8u:version>
+		<v8u:target>3.0.61.44</v8u:target>
+		<v8u:target>3.0.61.47</v8u:target>
+		<v8u:target>3.0.62.11</v8u:target>
+		<v8u:target>3.0.61.37</v8u:target>
+		<v8u:target>3.0.60.50</v8u:target>
+		<v8u:target>3.0.60.59</v8u:target>
+		<v8u:target>3.0.60.60</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_63_15/1cv8.zip</v8u:file>
+		<v8u:size>168416812</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.63.15</v8u:version>
+		<v8u:target>3.0.60.60</v8u:target>
+		<v8u:target>3.0.60.59</v8u:target>
+		<v8u:target>3.0.61.37</v8u:target>
+		<v8u:target>3.0.62.17</v8u:target>
+		<v8u:target>3.0.62.21</v8u:target>
+		<v8u:target>3.0.61.47</v8u:target>
+		<v8u:target>3.0.63.11</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_63_20/1cv8.zip</v8u:file>
+		<v8u:size>168401060</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.63.20</v8u:version>
+		<v8u:target>3.0.63.15</v8u:target>
+		<v8u:target>3.0.61.47</v8u:target>
+		<v8u:target>3.0.62.21</v8u:target>
+		<v8u:target>3.0.62.17</v8u:target>
+		<v8u:target>3.0.61.37</v8u:target>
+		<v8u:target>3.0.60.59</v8u:target>
+		<v8u:target>3.0.60.60</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_63_22/1cv8.zip</v8u:file>
+		<v8u:size>168616271</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.63.22</v8u:version>
+		<v8u:target>3.0.60.60</v8u:target>
+		<v8u:target>3.0.61.37</v8u:target>
+		<v8u:target>3.0.61.47</v8u:target>
+		<v8u:target>3.0.62.17</v8u:target>
+		<v8u:target>3.0.62.21</v8u:target>
+		<v8u:target>3.0.63.15</v8u:target>
+		<v8u:target>3.0.63.20</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_64_21/1cv8.zip</v8u:file>
+		<v8u:size>97926574</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.64.21</v8u:version>
+		<v8u:target>3.0.63.20</v8u:target>
+		<v8u:target>3.0.63.22</v8u:target>
+		<v8u:target>3.0.63.15</v8u:target>
+		<v8u:target>3.0.64.19</v8u:target>
+		<v8u:target>3.0.62.17</v8u:target>
+		<v8u:target>3.0.61.47</v8u:target>
+		<v8u:target>3.0.61.37</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_64_28/1cv8.zip</v8u:file>
+		<v8u:size>89307385</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.64.28</v8u:version>
+		<v8u:target>3.0.62.17</v8u:target>
+		<v8u:target>3.0.64.19</v8u:target>
+		<v8u:target>3.0.64.21</v8u:target>
+		<v8u:target>3.0.63.15</v8u:target>
+		<v8u:target>3.0.63.22</v8u:target>
+		<v8u:target>3.0.63.20</v8u:target>
+		<v8u:target>3.0.64.26</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_64_29/1cv8.zip</v8u:file>
+		<v8u:size>71422505</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.64.29</v8u:version>
+		<v8u:target>3.0.64.26</v8u:target>
+		<v8u:target>3.0.64.28</v8u:target>
+		<v8u:target>3.0.63.20</v8u:target>
+		<v8u:target>3.0.63.22</v8u:target>
+		<v8u:target>3.0.63.15</v8u:target>
+		<v8u:target>3.0.64.21</v8u:target>
+		<v8u:target>3.0.64.19</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_64_34/1cv8.zip</v8u:file>
+		<v8u:size>71845105</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.64.34</v8u:version>
+		<v8u:target>3.0.64.19</v8u:target>
+		<v8u:target>3.0.63.22</v8u:target>
+		<v8u:target>3.0.63.20</v8u:target>
+		<v8u:target>3.0.64.28</v8u:target>
+		<v8u:target>3.0.64.29</v8u:target>
+		<v8u:target>3.0.64.21</v8u:target>
+		<v8u:target>3.0.64.26</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_64_42/1cv8.zip</v8u:file>
+		<v8u:size>74482659</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.64.42</v8u:version>
+		<v8u:target>3.0.64.21</v8u:target>
+		<v8u:target>3.0.63.20</v8u:target>
+		<v8u:target>3.0.64.29</v8u:target>
+		<v8u:target>3.0.64.28</v8u:target>
+		<v8u:target>3.0.64.34</v8u:target>
+		<v8u:target>3.0.63.22</v8u:target>
+		<v8u:target>3.0.63.15</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_64_48/1cv8.zip</v8u:file>
+		<v8u:size>75978098</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.64.48</v8u:version>
+		<v8u:target>3.0.63.22</v8u:target>
+		<v8u:target>3.0.64.34</v8u:target>
+		<v8u:target>3.0.64.42</v8u:target>
+		<v8u:target>3.0.64.47</v8u:target>
+		<v8u:target>3.0.64.28</v8u:target>
+		<v8u:target>3.0.64.29</v8u:target>
+		<v8u:target>3.0.64.21</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_64_54/1cv8.zip</v8u:file>
+		<v8u:size>77780557</v8u:size>
+		<v8u:version platform="8.3.10.2466">3.0.64.54</v8u:version>
+		<v8u:target>3.0.64.21</v8u:target>
+		<v8u:target>3.0.64.29</v8u:target>
+		<v8u:target>3.0.64.28</v8u:target>
+		<v8u:target>3.0.64.48</v8u:target>
+		<v8u:target>3.0.64.42</v8u:target>
+		<v8u:target>3.0.64.34</v8u:target>
+		<v8u:target>3.0.63.22</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_65_69/1cv8.zip</v8u:file>
+		<v8u:size>96180743</v8u:size>
+		<v8u:version platform="8.3.12.1529">3.0.65.69</v8u:version>
+		<v8u:target>3.0.64.34</v8u:target>
+		<v8u:target>3.0.64.28</v8u:target>
+		<v8u:target>3.0.64.42</v8u:target>
+		<v8u:target>3.0.64.48</v8u:target>
+		<v8u:target>3.0.64.54</v8u:target>
+		<v8u:target>3.0.64.29</v8u:target>
+		<v8u:target>3.0.65.62</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_65_72/1cv8.zip</v8u:file>
+		<v8u:size>90338659</v8u:size>
+		<v8u:version platform="8.3.12.1529">3.0.65.72</v8u:version>
+		<v8u:target>3.0.65.62</v8u:target>
+		<v8u:target>3.0.65.69</v8u:target>
+		<v8u:target>3.0.64.42</v8u:target>
+		<v8u:target>3.0.64.34</v8u:target>
+		<v8u:target>3.0.64.29</v8u:target>
+		<v8u:target>3.0.64.48</v8u:target>
+		<v8u:target>3.0.64.54</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_65_80/1cv8.zip</v8u:file>
+		<v8u:size>90426227</v8u:size>
+		<v8u:version platform="8.3.12.1529">3.0.65.80</v8u:version>
+		<v8u:target>3.0.64.54</v8u:target>
+		<v8u:target>3.0.64.48</v8u:target>
+		<v8u:target>3.0.64.29</v8u:target>
+		<v8u:target>3.0.64.34</v8u:target>
+		<v8u:target>3.0.64.42</v8u:target>
+		<v8u:target>3.0.65.69</v8u:target>
+		<v8u:target>3.0.65.72</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_65_84/1cv8.zip</v8u:file>
+		<v8u:size>90396870</v8u:size>
+		<v8u:version platform="8.3.12.1529">3.0.65.84</v8u:version>
+		<v8u:target>3.0.65.72</v8u:target>
+		<v8u:target>3.0.65.80</v8u:target>
+		<v8u:target>3.0.65.69</v8u:target>
+		<v8u:target>3.0.64.42</v8u:target>
+		<v8u:target>3.0.64.34</v8u:target>
+		<v8u:target>3.0.64.48</v8u:target>
+		<v8u:target>3.0.64.54</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_65_91/1cv8.zip</v8u:file>
+		<v8u:size>220357606</v8u:size>
+		<v8u:version platform="8.3.12.1529">3.0.65.91</v8u:version>
+		<v8u:target>3.0.64.54</v8u:target>
+		<v8u:target>3.0.64.48</v8u:target>
+		<v8u:target>3.0.65.69</v8u:target>
+		<v8u:target>3.0.65.80</v8u:target>
+		<v8u:target>3.0.65.72</v8u:target>
+		<v8u:target>3.0.65.84</v8u:target>
+		<v8u:target>3.0.61.20</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_66_47/1cv8.zip</v8u:file>
+		<v8u:size>129464906</v8u:size>
+		<v8u:version platform="8.3.12.1685">3.0.66.47</v8u:version>
+		<v8u:target>3.0.65.69</v8u:target>
+		<v8u:target>3.0.65.72</v8u:target>
+		<v8u:target>3.0.65.80</v8u:target>
+		<v8u:target>3.0.65.91</v8u:target>
+		<v8u:target>3.0.65.84</v8u:target>
+		<v8u:target>3.0.64.48</v8u:target>
+		<v8u:target>3.0.64.54</v8u:target>
+	</v8u:update>
+	<v8u:update configuration="БухгалтерияПредприятия">
+		<v8u:vendor>Фирма "1С"</v8u:vendor>
+		<v8u:file>1c/Accounting/3_0_66_53/1cv8.zip</v8u:file>
+		<v8u:size>131336990</v8u:size>
+		<v8u:version platform="8.3.12.1685">3.0.66.53</v8u:version>
+		<v8u:target>3.0.64.54</v8u:target>
+		<v8u:target>3.0.66.47</v8u:target>
+		<v8u:target>3.0.65.84</v8u:target>
+		<v8u:target>3.0.65.91</v8u:target>
+		<v8u:target>3.0.65.72</v8u:target>
+		<v8u:target>3.0.65.80</v8u:target>
+		<v8u:target>3.0.65.69</v8u:target>
+	</v8u:update>
+</v8u:updateList>

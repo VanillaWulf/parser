@@ -1,19 +1,4 @@
-// import from '/v8cscdsc.xml';
-//
-// if (window.DOMParser)
-// {
-//     parser = new DOMParser();
-//     xmlDoc = parser.parseFromString(txt, "application/xml");
-//     console.log(xmlDoc);
-// }
-// else // Internet Explorer
-// {
-//     xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
-//     xmlDoc.async = false;
-//     xmlDoc.loadXML(txt);
-// }
-
-let getXMLFile = function (path, callback) {
+let getXMLFile = function (path, tag, callback) {
     let request = new XMLHttpRequest();
     request.open('GET', path);
     request.setRequestHeader('Content-Type', 'text/xml');
@@ -26,6 +11,12 @@ let getXMLFile = function (path, callback) {
     request.send();
 };
 
-getXMLFile('v8cscdsc.xml', function (xml) {
-    console.log(xml);
+getXMLFile('v8cscdsc.xml', 'v8u:version', function (xml) {
+    console.log(xml.getElementsByTagName('v8u:version'));
+    let versions = Array.prototype.slice.call(xml.getElementsByTagName('v8u:version'));
+    versions.map((item) => {
+        if(item.attributes.platform && item.attributes.platform.nodeValue) {
+            console.log(item.innerHTML + ' '  + item.attributes.platform.nodeValue);
+        }
+    })
 });
